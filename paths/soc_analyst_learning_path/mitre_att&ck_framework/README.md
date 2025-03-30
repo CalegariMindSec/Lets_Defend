@@ -4,15 +4,15 @@ In  this training, MITRE ATT&CK Framework, an important structure for  SOC analy
 
 **Table of content:**
 
-- Introductory Information About MITRE Course
+- [Introductory Information About MITRE Course](#introductory-information-about-mitre-course)
 
-- Introduction to MITRE
-- Matrix
-- Tactics
-- Techniques and Sub-Techniques
-- Mitigations
-- Groups
-- Software
+- [Introduction to MITRE](#introduction-to-mitre)
+- [Matrix](#matrix)
+- [Tactics](#tactics)
+- [Techniques and Sub-Techniques](#techniques-and-sub-techniques)
+- [Mitigations](#mitigations)
+- [Groups](#mitigations)
+- [Software](#software)
 
 ## Introductory Information About MITRE Course
 
@@ -38,7 +38,7 @@ MITRE ATT&CK that stands for Adversarial Tactics, Techniques, and Common Knowled
 
 (Image Source: mitre.org)
 
-## **Why is the MITRE ATT&CK Framework important to SOC Analyst?**
+### **Why is the MITRE ATT&CK Framework important to SOC Analyst?**
 
 Since each step of cyber attacks is covered in detail in the MITRE  ATT&CK Framework, SOC Analysts can clearly see the actions that  should be taken for each stage of the cyber attack and that it as a  reference. In this way, attack detection and mitigation techniques  developed against cyber attacks can be used more effectively, cyber  attacks can be mapped, an in-depth report can be written and the details of the attack can be archived for a later use. Since this framework  provides a clear roadmap of cyber attacks, researches can be conducted  on other possible cyber attacks that have not yet occurred yet to  develop ways to detect or avoid them.
 
