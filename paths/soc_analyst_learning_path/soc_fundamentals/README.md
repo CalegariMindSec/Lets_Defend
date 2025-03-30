@@ -4,7 +4,7 @@ The SOC Fundamentals course serves as a crucial stepping stone for  individuals 
 
 **Table of content:**
 
-- Introduction to SOC
+- [Introduction to SOC](Introduction to SOC)
 - SOC Types and Roles
 - SOC Analyst and Their Responsibilities
 - SIEM and Analyst Relationship
@@ -15,8 +15,6 @@ The SOC Fundamentals course serves as a crucial stepping stone for  individuals 
 - Common Mistakes made by SOC Analysts
 
 ## Introduction to SOC
-
-### Introduction to SOC
 
 Welcome to the first step of your career as a SOC analyst. In  this first lesson, the structure of SOC and SOC tools will be explained. The lesson will also discuss why a SOC analyst needs these SOC  (Security Operations Center) tools and how to use them effectively
 
