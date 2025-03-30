@@ -4,16 +4,16 @@ The Cyber Kill Chain course is designed to provide participants with a  comprehe
 
 **Table of content:**
 
-- Introduction to Cyber Kill Chain
+- [Introduction to Cyber Kill Chain](#introduction-to-cyber-kill-chain)
 
-- Cyber Kill Chain Steps
-- Reconnaissance
-- Weaponization
-- Delivery
-- Exploitation
-- Installation
-- Command and Control (C2)
-- Actions on Objectives
+- [Cyber Kill Chain Steps](#cyber-kill-chain-steps)
+- [Reconnaissance](#reconnaissance)
+- [Weaponization](#weaponization)
+- [Delivery](#delivery)
+- [Exploitation](#exploitation)
+- [Installation](#installation)
+- [Command and Control (C2)](#command-and-control-c2)
+- [Actions on Objectives](#actions-on-objectives)
 
 ## Introduction to Cyber Kill Chain
 
