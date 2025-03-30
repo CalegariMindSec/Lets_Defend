@@ -4,7 +4,7 @@ The SOC Fundamentals course serves as a crucial stepping stone for  individuals 
 
 **Table of content:**
 
-- [Introduction to SOC](Introduction to SOC)
+- [Introduction to SOC](#introduction-to-soc)
 - SOC Types and Roles
 - SOC Analyst and Their Responsibilities
 - SIEM and Analyst Relationship
