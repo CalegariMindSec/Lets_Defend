@@ -5,14 +5,14 @@ The SOC Fundamentals course serves as a crucial stepping stone for  individuals 
 **Table of content:**
 
 - [Introduction to SOC](#introduction-to-soc)
-- SOC Types and Roles
-- SOC Analyst and Their Responsibilities
-- SIEM and Analyst Relationship
-- Log Management
-- EDR - Endpoint Detection and Response
-- SOAR (Security Orchestration Automation and Response)
-- Threat Intelligence Feed
-- Common Mistakes made by SOC Analysts
+- [SOC Types and Roles](#soc-types-and-roles)
+- [SOC Analyst and Their Responsibilities](#soc-analyst-and-their-responsibilities)
+- [SIEM and Analyst Relationship](#siem-and-analyst-relationship)
+- [Log Management](#log-management)
+- [EDR - Endpoint Detection and Response](#edr---endpoint-detection-and-response)
+- [SOAR (Security Orchestration Automation and Response)](#soar-security-orchestration-automation-and-response)
+- [Threat Intelligence Feed](#threat-intelligence-feed)
+- [Common Mistakes made by SOC Analysts](#common-mistakes-made-by-soc-analysts)
 
 ## Introduction to SOC
 
@@ -303,7 +303,7 @@ image: hawk-eye.io
 
 The benefits of SOAR and how you can effectively use SOAR as a SOC analyst will be the focus of the rest of this lesson.
 
-## Saves You Time
+### Saves You Time
 
 SOAR saves time with workflows that automate processes. Some common workflows are:
 
@@ -312,7 +312,7 @@ SOAR saves time with workflows that automate processes. Some common workflows ar
 - Scanning an acquired file in a sandbox environment
 - …
 
-## Centralization (A single platform for everything you need)
+### Centralization (A single platform for everything you need)
 
 It allows you to use different security tools in your environment  (sandbox, log management, 3rd party tools, etc.) by providing an  all-in-one software. These tools are integrated into the SOAR solution  and can be used on the same platform.
 
