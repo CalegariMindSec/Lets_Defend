@@ -12,3 +12,4 @@ My repo for Let's Defend Notes.
 ### SOC Analyst Learning Path
 
 1. [SOC Fundamentals](paths/soc_analyst_learning_path/soc_fundamentals)
+1. [Cyber Kill Chain](paths/soc_analyst_learning_path/cyber_kill_chain)
