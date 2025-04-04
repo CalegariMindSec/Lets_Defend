@@ -6,13 +6,13 @@ Phishing Email Analysis involves the systematic examination of emails suspected 
 
 **Table of content:**
 
-- Introduction to Phishing
-- Information Gathering
-- What is an Email Header and How to Read Them?
-- Email Header Analysis
-- Static Analysis
-- Dynamic Analysis
-- Additional Techniques
+- [Introduction to Phishing](#introduction-to-phishing)
+- [Information Gathering](#information-gathering)
+- [What is an Email Header and How to Read Them?](#what-is-an-email-header-and-how-to-read-them)
+- [Email Header Analysis](#email-header-analysis)
+- [Static Analysis](#email-header-analysis)
+- [Dynamic Analysis](#dynamic-analysis)
+- [Additional Techniques](#dynamic-analysis)
 
 **Practice with SOC Alert**
 
