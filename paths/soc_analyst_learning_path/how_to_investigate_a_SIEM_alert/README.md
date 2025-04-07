@@ -4,14 +4,14 @@ Dive into our practical course, "How to Investigate a SIEM Alert?" and gain  ess
 
 **Table of content:**
 
-- Introduction to SIEM Alerts
+- [Introduction to SIEM Alerts](#introduction-to-siem-alerts)
 
-- Detection
-- Case Creation and Playbook Initiation
-- Email Analysis
-- Network and Log Analysis
-- Endpoint Analysis
-- Result
+- [Detection](#detection)
+- [Case Creation and Playbook Initiation](#case-creation-and-playbook-initiation)
+- [Email Analysis](#email-analysis)
+- [Network and Log Analysis](#network-and-log-analysis)
+- [Endpoint Analysis](#endpoint-analysis)
+- [Result](#result)
 
 ## Introduction to SIEM Alerts
 
@@ -217,8 +217,8 @@ In this section, we will  analyze emails to gather information relevant to our i
 
 To begin the email  analysis, navigate to the Email Security tab. This section provides  tools and features for examining emails in detail.
 
-- ​    Click on the email security tab.  
-- ​    Use the search bar to find the email related to the investigation.  
+- Click on the email security tab.  
+- Use the search bar to find the email related to the investigation.  
 
 ![img](https://ld-images-2.s3.us-east-2.amazonaws.com/How+to+investigate+SIEM+alert/4.Email+Analysis/image4_1.png)
 
@@ -235,7 +235,7 @@ Use the detailed search  bar in the Email Security tab to find the specific emai
 - Date  
 - Action  
 
-###   Examining Email Content
+### Examining Email Content
 
 Once you've found the  email in question, examine it to find the answers to the last two  questions in the first step of the playbook.
 
@@ -248,18 +248,18 @@ Once you've found the  email in question, examine it to find the answers to the 
 - Review the email body, attachments, sender information, and other details.  
 - Scroll down to view any attachments.  
 
-##   Continue the Playbook
+### Continue the Playbook
 
-  Once you have gathered the information you need, make a note of it to complete this step.
+Once you have gathered the information you need, make a note of it to complete this step.
 
 ![img](https://ld-images-2.s3.us-east-2.amazonaws.com/How+to+investigate+SIEM+alert/4.Email+Analysis/image4_2.png)
 
-- ​    Head back to the playbook.  
-- ​    Click Next to proceed to the next step of the playbook.  
+- Head back to the playbook.  
+- Click Next to proceed to the next step of the playbook.  
 
-###   Next Step of the Playbook
+### Next Step of the Playbook
 
-  The next step instructs us to check for attachments or URLs in the email.
+The next step instructs us to check for attachments or URLs in the email.
 
 ![img](https://ld-images-2.s3.us-east-2.amazonaws.com/How+to+investigate+SIEM+alert/4.Email+Analysis/image4_3.png)
 
