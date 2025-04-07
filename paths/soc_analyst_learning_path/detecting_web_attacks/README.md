@@ -5,15 +5,15 @@ Investigating web attacks as a SOC Analyst.
 **Table of content:**
 
 - [Introduction](#introduction)
-- Why Detecting Web Attacks Important
+- [Why Detecting Web Attacks Important](#why-detecting-web-attacks-important)
 
-- OWASP
-- How Web Applications Work
-- Detecting SQL Injection Attacks
-- Detecting Cross Site Scripting (XSS) Attacks
-- Detecting Command Injection Attacks
-- Detecting Insecure Direct Object Reference (IDOR) Attacks
-- Detecting RFI & LFI Attacks
+- [OWASP](#owasp)
+- [How Web Applications Work](#how-web-applications-work)
+- [Detecting SQL Injection Attacks](#detecting-sql-injection-attacks)
+- [Detecting Cross Site Scripting (XSS) Attacks](#detecting-cross-site-scripting-xss-attacks)
+- [Detecting Command Injection Attacks](#detecting-command-injection-attacks)
+- [Detecting Insecure Direct Object Reference (IDOR) Attacks](#detecting-insecure-direct-object-reference-idor-attacks)
+- [Detecting RFI & LFI Attacks](#detecting-rfi--lfi-attacks)
 
 **Practice with SOC Alert**
 
