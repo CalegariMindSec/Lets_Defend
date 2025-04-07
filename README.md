@@ -18,4 +18,5 @@ My repo for Let's Defend Notes.
 1. [Detecting Web Attacks](paths/soc_analyst_learning_path/detecting_web_attacks)
 1. [Detecting Web Attacks - 2](paths/soc_analyst_learning_path/detecting_web_attacks_2)
 1. [Investigate Web Attack](paths/soc_analyst_learning_path/investigate_web_attack)
+1. [How to Investigate a SIEM Alert?](paths/soc_analyst_learning_path/how_to_investigate_a_SIEM_alert)
 
