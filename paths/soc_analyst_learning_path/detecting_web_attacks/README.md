@@ -1,12 +1,10 @@
 # Detecting Web Attacks
 
-### Detecting Web Attacks
-
 Investigating web attacks as a SOC Analyst.
 
 **Table of content:**
 
-- Introduction
+- [Introduction](#introduction)
 - Why Detecting Web Attacks Important
 
 - OWASP
@@ -61,6 +59,22 @@ You will gain knowledge of web vulnerabilities such as SQL Injection, Command In
 **References**
 
 [1] https://www.acunetix.com/websitesecurity/web-application-attack/
+
+## Why Detecting Web Attacks Important
+
+If you look at the average person's daily routine, you'll see that they  use a variety of web applications, such as Spotify to listen to music,  YouTube to watch videos, and Twitter to read tweets.
+
+It is no surprise that attackers choose web applications as a gateway for their attacks, because all organizations have web applications,  most of which contain critical data, and because today's applications  are highly complex and have numerous attack vectors.
+
+> “””According to Acunetix research, 75% of cyber attacks are done at the web application level, supporting this idea.“”” [1]
+
+If we examine the anatomy of an attack, we can clearly see that the  best scenario is to prevent the attack in its first phase. This is why  there are various security measures aimed at preventing and detecting  threats against web applications (WAF, IPS, SIEM rules...).
+
+It is essential that a SOC analyst detects and takes precautions  against these web application-based attacks that are favored by  attackers.
+
+**Reference** 
+
+ [1]    https://www.acunetix.com/websitesecurity/web-application-attack/
 
 ## OWASP
 
