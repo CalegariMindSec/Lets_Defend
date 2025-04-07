@@ -4,11 +4,11 @@ In  this comprehensive course on detecting web attacks, participants will  learn
 
 **Table of content:**
 
-- Detecting Open Redirection Attacks
+- [Detecting Open Redirection Attacks](#detecting-open-redirection-attacks)
 
-- Detecting Directory Traversal Attacks
-- Detecting Brute Force Attacks
-- Detecting XML External Entity Attacks
+- [Detecting Directory Traversal Attacks](#detecting-directory-traversal-attacks)
+- [Detecting Brute Force Attacks](#detecting-brute-force-attacks)
+- [Detecting XML External Entity Attacks](#detecting-xml-external-entity-attacks)
 
 ## Detecting Open Redirection Attacks
 

@@ -17,4 +17,5 @@ My repo for Let's Defend Notes.
 1. [Phishing Email Analysis](paths/soc_analyst_learning_path/phishing_email_analysis)
 1. [Detecting Web Attacks](paths/soc_analyst_learning_path/detecting_web_attacks)
 1. [Detecting Web Attacks - 2](paths/soc_analyst_learning_path/detecting_web_attacks_2)
+1. [Investigate Web Attack](paths/soc_analyst_learning_path/investigate_web_attack)
 
