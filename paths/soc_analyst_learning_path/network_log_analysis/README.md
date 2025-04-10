@@ -4,16 +4,16 @@ SOC Analysts should be able to examine different network log sources during the 
 
 **Table of content:**
 
-- Introduction to Network Log Analysis
+- [Introduction to Network Log Analysis](#introduction-to-network-log-analysis)
 
-- Generic Log Analysis (Netflow)
-- Firewall Log Analysis
-- VPN Log Analysis
-- Proxy Log Analysis
-- IDS/IPS Log Analysis
-- WAF Log Analysis
-- Web Log Analysis
-- DNS Log Analysis
+- [Generic Log Analysis (Netflow)](#generic-log-analysis-netflow)
+- [Firewall Log Analysis](#firewall-log-analysis)
+- [VPN Log Analysis](#vpn-log-analysis)
+- [Proxy Log Analysis](#proxy-log-analysis)
+- [IDS/IPS Log Analysis](#idsips-log-analysis)
+- [WAF Log Analysis](#waf-log-analysis)
+- [Web Log Analysis](#web-log-analysis)
+- [DNS Log Analysis](#dns-log-analysis)
 
 **Challenge**
 
