@@ -21,4 +21,9 @@ My repo for Let's Defend Notes.
 1. [How to Investigate a SIEM Alert?](paths/soc_analyst_learning_path/how_to_investigate_a_SIEM_alert)
 1. [Malware Analysis Fundamentals](paths/soc_analyst_learning_path/malware_analysis_fundamental)
 1. [Detected Suspicious Xls File](paths/soc_analyst_learning_path/detected_suspicious_xls_file)
+1.  
+1.  
+1.  
+1.  
+1. [Network Log Analysis](paths/soc_analyst_learning_path/network_log_analysis)
 
