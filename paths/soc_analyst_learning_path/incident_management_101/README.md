@@ -4,12 +4,12 @@ Learn how to manage incidents and how incident management systems work
 
 **Table of content:**
 
-- Introduction to Incident Management
-- Basic Definitions About Incident Management
-- Incident Management Systems (IMS)
-- Case/Alert Naming
-- Playbooks
-- What Does the SOC Analyst Do When An Alert Occurs?
+- [Introduction to Incident Management](#introduction-to-incident-management)
+- [Basic Definitions About Incident Management](#basic-definitions-about-incident-management)
+- [Incident Management Systems (IMS)](#incident-management-systems-ims)
+- [Case/Alert Naming](#casealert-naming)
+- [Playbooks](#playbooks)
+- [What Does the SOC Analyst Do When An Alert Occurs?](#what-does-the-soc-analyst-do-when-an-alert-occurs)
 
 ## Introduction to Incident Management
 
