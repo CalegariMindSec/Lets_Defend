@@ -4,15 +4,15 @@ Start learning CTI types, attack surfaces, gathering TI data, and how to use the
 
 **Table of content:**
 
-- Introduction to CTI
+- [Introduction to CTI](#introduction-to-cti)
 
-- CTI Lifecycle
-- Types of Cyber Threat Intelligence
-- Determining the Attack Surface
-- Gathering Threat Intelligence
-- Threat Intelligence Data Interpretation
-- Using Threat Intelligence
-- Threat Intelligence and SOC Integration
+- [CTI Lifecycle](#cti-lifecycle)
+- [Types of Cyber Threat Intelligence](#types-of-cyber-threat-intelligence)
+- [Determining the Attack Surface](#determining-the-attack-surface)
+- [Gathering Threat Intelligence](#gathering-threat-intelligence)
+- [Threat Intelligence Data Interpretation](#threat-intelligence-data-interpretation)
+- [Using Threat Intelligence](#using-threat-intelligence)
+- [Threat Intelligence and SOC Integration](#threat-intelligence-and-soc-integration)
 
 **Practice with SOC Alert**
 
