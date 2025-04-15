@@ -28,6 +28,7 @@ My repo for Let's Defend Notes.
 1. [Network Log Analysis](paths/soc_analyst_learning_path/network_log_analysis)
 1. 
 1. [Incident Management 101](paths/soc_analyst_learning_path/incident_management_101)
-1.  
+1. 
 1. [Cyber Threat Intelligence](paths/soc_analyst_learning_path/cyber_threat_intelligence)
+1. [VirusTotal for SOC Analysts](paths/soc_analyst_learning_path/virustotal_for_soc_analysts)
 
