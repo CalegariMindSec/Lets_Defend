@@ -4,15 +4,15 @@ Learn how to detect brute force attacks against applications and systems
 
 **Table of content:**
 
-- Introduction to Detecting Brute Force Attacks
+- [Introduction to Detecting Brute Force Attacks](#introduction-to-detecting-brute-force-attacks)
 
-- Brute Force Attacks
-- Protocol/Services That Can Be Attacked by Brute Force
-- Tools Used in a Brute Force Attacks
-- How to Avoid Brute Force Attacks?
-- SSH Brute Force Attack Detection Example
-- HTTP Login Brute Force Attack Detection Example
-- Windows Login Brute Force Detection Example
+- [Brute Force Attacks](#brute-force-attacks)
+- [Protocol/Services That Can Be Attacked by Brute Force](#protocolservices-that-can-be-attacked-by-brute-force)
+- [Tools Used in a Brute Force Attacks](#tools-used-in-a-brute-force-attacks)
+- [How to Avoid Brute Force Attacks?](#how-to-avoid-brute-force-attacks)
+- [SSH Brute Force Attack Detection Example](#ssh-brute-force-attack-detection-example)
+- [HTTP Login Brute Force Attack Detection Example](#http-login-brute-force-attack-detection-example)
+- [Windows Login Brute Force Detection Example](#windows-login-brute-force-detection-example)
 
 **Challenge**
 
