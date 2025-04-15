@@ -31,4 +31,7 @@ My repo for Let's Defend Notes.
 1. 
 1. [Cyber Threat Intelligence](paths/soc_analyst_learning_path/cyber_threat_intelligence)
 1. [VirusTotal for SOC Analysts](paths/soc_analyst_learning_path/virustotal_for_soc_analysts)
+1.  
+1.  
+1. [Detecting Brute Force Attacks](paths/soc_analyst_learning_path/detecting_brute_force_attacks)
 
