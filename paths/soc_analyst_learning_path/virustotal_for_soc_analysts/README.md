@@ -4,12 +4,12 @@ Learn how to use VirusTotal to become a better SOC Analyst.
 
 **Table of content:**
 
-- [Introduction to VirusTotal for SOC Analysts]()
+- [Introduction to VirusTotal for SOC Analysts](#introduction-to-virustotal-for-soc-analysts)
 
-- File Analysis with VirusTotal
-- Scanning URLs with VirusTotal
-- Searching for IOC
-- Key Points to Pay Attention
+- [File Analysis with VirusTotal](#file-analysis-with-virustotal)
+- [Scanning URLs with VirusTotal](#scanning-urls-with-virustotal)
+- [Searching for IOC](#searching-for-ioc)
+- [Key Points to Pay Attention](#key-points-to-pay-attention)
 
 ## Introduction to VirusTotal for SOC Analysts
 
