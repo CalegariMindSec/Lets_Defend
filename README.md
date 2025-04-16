@@ -14,7 +14,7 @@ My repo for Let's Defend Notes.
 
 **Summary:**
 
-
+- [SOC Analyst Learning Path](#soc-analyst-learning-path)
 
 ### SOC Analyst Learning Path
 
@@ -47,3 +47,11 @@ My repo for Let's Defend Notes.
 
 
 ## Courses
+
+**Summary - Categories:**
+
+- Threat Hunter
+
+### Threat Hunter
+
+- [Introduction to Threat Hunting](courses/threat_hunter/introduction_to_threat_hunting)
