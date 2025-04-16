@@ -4,13 +4,13 @@ This course offers a comprehensive introduction to the world of threat  hunting 
 
 **Table of content:**
 
-- Introduction
+- [Introduction](#introduction)
 
-- Threat Hunting Team and Competencies
-- Threat Hunting Methodologies
-- Hypothesis-Driven Approach
-- IoC-Based Approach
-- Threat Hunting Life Cycle
+- [Threat Hunting Team and Competencies](#threat-hunting-team-and-competencies)
+- [Threat Hunting Methodologies](#threat-hunting-methodologies)
+- [Hypothesis-Driven Approach](#hypothesis-driven-approach)
+- [IoC-Based Approach](#ioc-based-approach)
+- [Threat Hunting Life Cycle](#threat-hunting-life-cycle)
 
 ## Introduction
 
