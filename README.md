@@ -21,7 +21,7 @@ My repo for Let's Defend Notes.
 1. [How to Investigate a SIEM Alert?](paths/soc_analyst_learning_path/how_to_investigate_a_SIEM_alert)
 1. [Malware Analysis Fundamentals](paths/soc_analyst_learning_path/malware_analysis_fundamental)
 1. [Detected Suspicious Xls File](paths/soc_analyst_learning_path/detected_suspicious_xls_file)
-1. 
+1. [Dynamic Malware Analysis](paths/soc_analyst_learning_path/dynamic_malware_analysis)
 1. 
 1. 
 1. 
@@ -31,7 +31,7 @@ My repo for Let's Defend Notes.
 1. 
 1. [Cyber Threat Intelligence](paths/soc_analyst_learning_path/cyber_threat_intelligence)
 1. [VirusTotal for SOC Analysts](paths/soc_analyst_learning_path/virustotal_for_soc_analysts)
-1.  [Malicious File/Script Download Attempt](paths/soc_analyst_learning_path/malicious_filescript_download_attempt)
-1.  
+1. [Malicious File/Script Download Attempt](paths/soc_analyst_learning_path/malicious_filescript_download_attempt)
+1. 
 1. [Detecting Brute Force Attacks](paths/soc_analyst_learning_path/detecting_brute_force_attacks)
 

@@ -4,12 +4,12 @@ What do SOC Analysts need to know about SIEM?
 
 **Table of content:**
 
-- SIEM Introduction
+- [SIEM Introduction](#siem-introduction)
 
-- Log Collection
-- Log Aggregation and Parsing
-- Log Storage
-- Alerting
+- [Log Collection](#log-collection)
+- [Log Aggregation and Parsing](#log-aggregation-and-parsing)
+- [Log Storage](#log-storage)
+- [Alerting](#alerting)
 
 ## SIEM Introduction
 
