@@ -3,8 +3,8 @@ My repo for Let's Defend Notes.
 
 ## Summary:
 
-- Paths
-- Courses
+- [Paths](#paths)
+- [Courses](#courses)
 
 
 
