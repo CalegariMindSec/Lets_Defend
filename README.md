@@ -50,7 +50,7 @@ My repo for Let's Defend Notes.
 
 **Summary - Categories:**
 
-- Threat Hunter
+- [Threat Hunter](#threat-hunter)
 
 ### Threat Hunter
 
