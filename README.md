@@ -34,4 +34,6 @@ My repo for Let's Defend Notes.
 1. [Malicious File/Script Download Attempt](paths/soc_analyst_learning_path/malicious_filescript_download_attempt)
 1. 
 1. [Detecting Brute Force Attacks](paths/soc_analyst_learning_path/detecting_brute_force_attacks)
+1.  
+1.  
 
