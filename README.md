@@ -1,6 +1,13 @@
 # Lets_Defend
 My repo for Let's Defend Notes.
 
+## Summary:
+
+- Paths
+- Courses
+
+
+
 
 
 ## Paths
@@ -37,3 +44,6 @@ My repo for Let's Defend Notes.
 1.  
 1.  
 
+
+
+## Courses
