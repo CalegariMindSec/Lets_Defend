@@ -31,7 +31,7 @@ My repo for Let's Defend Notes.
 1. [Dynamic Malware Analysis](paths/soc_analyst_learning_path/dynamic_malware_analysis)
 1. [MSHTML](paths/soc_analyst_learning_path/mshtml)
 1. [Malicious Document Analysis](paths/soc_analyst_learning_path/malicious_document_analysis)
-1. 
+1. [Security Solutions](paths/soc_analyst_learning_path/security_solutions)
 1. [Network Log Analysis](paths/soc_analyst_learning_path/network_log_analysis)
 1. [SIEM 101](paths/soc_analyst_learning_path/siem_101)
 1. [Incident Management 101](paths/soc_analyst_learning_path/incident_management_101)
