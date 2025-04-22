@@ -30,7 +30,7 @@ My repo for Let's Defend Notes.
 1. [Detected Suspicious Xls File](paths/soc_analyst_learning_path/detected_suspicious_xls_file)
 1. [Dynamic Malware Analysis](paths/soc_analyst_learning_path/dynamic_malware_analysis)
 1. [MSHTML](paths/soc_analyst_learning_path/mshtml)
-1. 
+1. [Malicious Document Analysis](paths/soc_analyst_learning_path/malicious_document_analysis)
 1. 
 1. [Network Log Analysis](paths/soc_analyst_learning_path/network_log_analysis)
 1. [SIEM 101](paths/soc_analyst_learning_path/siem_101)
@@ -41,8 +41,8 @@ My repo for Let's Defend Notes.
 1. [Malicious File/Script Download Attempt](paths/soc_analyst_learning_path/malicious_filescript_download_attempt)
 1. 
 1. [Detecting Brute Force Attacks](paths/soc_analyst_learning_path/detecting_brute_force_attacks)
-1.  
-1.  
+1. 
+1. 
 
 
 
