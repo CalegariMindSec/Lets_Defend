@@ -4,12 +4,12 @@ Attackers have taken advantage of documents by using macros. And macros have bee
 
 **Table of content:**
 
-- Introduction to Malicious Document File Analysis
+- [Introduction to Malicious Document File Analysis](#introduction-to-malicious-document-file-analysis)
 
-- Static Malicious Document Analysis
-- More Details About Document File Analysis 1
-- More Details About Document File Analysis 2
-- Analysis with Sandboxes
+- [Static Malicious Document Analysis](#static-malicious-document-analysis)
+- [More Details About Document File Analysis 1](#more-details-about-document-file-analysis-1)
+- [More Details About Document File Analysis 2](#more-details-about-document-file-analysis-2)
+- [Analysis with Sandboxes](#analysis-with-sandboxes)
 
 **Challenge**
 
