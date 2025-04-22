@@ -4,17 +4,17 @@ In this course, we will look at the basic questions to help you to evaluate your
 
 **Table of content:** 
 
-- Introduction to IT Security Basis for Corporates
+- [Introduction to IT Security Basis for Corporates](#introduction-to-it-security-basis-for-corporates)
 
-- Inventory
-- Backups
-- Phishing Prevention
-- Internet Browsing Protection
-- Patching
-- Access Control
-- Risk Analysis
-- Network
-- Incident Response for IT Security
+- [Inventory](#inventory)
+- [Backups](#backups)
+- [Phishing Prevention](#phishing-prevention)
+- [Internet Browsing Protection](#internet-browsing-protection)
+- [Patching](#patching)
+- [Access Control](#access-control)
+- [Risk Analysis](#risk-analysis)
+- [Network](#network)
+- [Incident Response for IT Security](#incident-response-for-it-security)
 
 ## Introduction to IT Security Basis for Corporates
 
