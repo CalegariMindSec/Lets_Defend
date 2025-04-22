@@ -4,20 +4,20 @@ Get familiar with Firewall, IPS/IDS, Antivirus, EDR and more!
 
 **Table of content:**
 
-- Introduction to Security Solutions
+- [Introduction to Security Solutions](#introduction-to-security-solutions)
 
-- Intrusion Detection System (IDS)
-- Intrusion Prevention System (IPS)
-- Firewall
-- Endpoint Detection and Response (EDR)
-- Antivirus Software (AV)
-- Sandbox Solutions
-- Data Loss Prevention (DLP)
-- Asset Management Solutions
-- Web Application Firewall (WAF)
-- Load Balancer
-- Proxy Server
-- Email Security Solutions
+- [Intrusion Detection System (IDS)](#intrusion-detection-system-ids)
+- [Intrusion Prevention System (IPS)](#intrusion-prevention-system-ips)
+- [Firewall](#firewall)
+- [Endpoint Detection and Response (EDR)](#endpoint-detection-and-response-edr)
+- [Antivirus Software (AV)](#antivirus-software-av)
+- [Sandbox Solutions](#sandbox-solutions)
+- [Data Loss Prevention (DLP)](#data-loss-prevention-dlp)
+- [Asset Management Solutions](#asset-management-solutions)
+- [Web Application Firewall (WAF)](#web-application-firewall-waf)
+- [Load Balancer](#load-balancer)
+- [Proxy Server](#proxy-server)
+- [Email Security Solutions](#email-security-solutions)
 
 ## Introduction to Security Solutions
 
