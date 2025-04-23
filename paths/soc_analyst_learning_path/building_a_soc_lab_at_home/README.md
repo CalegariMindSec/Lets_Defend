@@ -4,12 +4,12 @@ If you want to build a SOC Lab with free tools, you should follow this course.
 
 **Table of content:**
 
-- pfSense
+- [pfSense](#pfsense)
 
-- Active Directory
-- Windows Workstation
-- Sysmon
-- CrowdSec
+- [Active Directory](#active-directory)
+- [Windows Workstation](#windows-workstation)
+- [Sysmon](#sysmon)
+- [CrowdSec](#crowdsec)
 
 ## pfSense
 
