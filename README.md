@@ -41,7 +41,7 @@ My repo for Let's Defend Notes.
 1. [Malicious File/Script Download Attempt](paths/soc_analyst_learning_path/malicious_filescript_download_attempt)
 1. [IT Security Basis for Corporates](paths/soc_analyst_learning_path/it_security_basis_for_corporates)
 1. [Detecting Brute Force Attacks](paths/soc_analyst_learning_path/detecting_brute_force_attacks)
-1. 
+1. [Building a Malware Analysis Lab](paths/soc_analyst_learning_path/building_a_malware_analysis_lab)
 1. [Building a SOC Lab at Home](paths/soc_analyst_learning_path/building_a_soc_lab_at_home)
 
 
