@@ -4,18 +4,18 @@ Use Splunk as a SOC member and be comfortable to search data.
 
 **Table of content:**
 
-- Introduction to Splunk
+- [Introduction to Splunk](#introduction-to-splunk)
 
-- Splunk Installation on Windows
-- Splunk Installation on Linux
-- Splunk Universal Forwarders
-- Add Data to Splunk
-- Search on Splunk
-- Splunk Reports
-- Alerts on Splunk
-- Dashboards
-- Splunk Health Status Check
-- User Management on Splunk
+- [Splunk Installation on Windows](#splunk-installation-on-windows)
+- [Splunk Installation on Linux](#splunk-installation-on-linux)
+- [Splunk Universal Forwarders](#splunk-universal-forwarders)
+- [Add Data to Splunk](#add-data-to-splunk)
+- [Search on Splunk](#search-on-splunk)
+- [Splunk Reports](#splunk-reports)
+- [Alerts on Splunk](#alerts-on-splunk)
+- [Dashboards](#dashboards)
+- [Splunk Health Status Check](#splunk-health-status-check)
+- [User Management on Splunk](#user-management-on-splunk)
 
 ## Introduction to Splunk
 
