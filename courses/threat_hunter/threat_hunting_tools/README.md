@@ -4,14 +4,14 @@ The  "Threat Hunting Tools" course offers a comprehensive dive into the world of
 
 **Table of content:**
 
-- Categories of Threat Hunting Tools
+- [Categories of Threat Hunting Tools](#categories-of-threat-hunting-tools)
 
-- Data Collection Tools
-- Data Analysis Tools
-- Network Monitoring Tools
-- Endpoint Detection and Response (EDR) Tools
-- Cyber Threat Intelligence (CTI) Tools
-- Integration and Automation of Threat Hunting Tools
+- [Data Collection Tools](#data-collection-tools)
+- [Data Analysis Tools](#data-analysis-tools)
+- [Network Monitoring Tools](#network-monitoring-tools)
+- [Endpoint Detection and Response (EDR) Tools](#endpoint-detection-and-response-edr-tools)
+- [Cyber Threat Intelligence (CTI) Tools](#cyber-threat-intelligence-cti-tools)
+- [Integration and Automation of Threat Hunting Tools](#integration-and-automation-of-threat-hunting-tools)
 
 ## Categories of Threat Hunting Tools
 
@@ -364,7 +364,7 @@ It assists threat  hunters in detecting and analyzing abnormal activities on end
 
 (**Image Source**: https://www.crowdstrike.com/blog/threat-hunting-report-highlights-2020/)  
 
-## SentinelOne  
+### SentinelOne  
 
 SentinelOne is an EDR  solution that offers advanced threat detection and incident response  capabilities. It uses machine learning and automation technologies to  detect and respond to threats.  
 
@@ -409,7 +409,7 @@ EDR tools are critical  for securing endpoints in threat hunting processes. Tool
 
 This lesson has  introduced EDR solutions such as CrowdStrike Falcon, SentinelOne, and Microsoft Defender for Endpoint. The next lesson will cover **“Cyber Threat Intelligence (CTI) Tools”**.  
 
-### Cyber Threat Intelligence (CTI) Tools
+## Cyber Threat Intelligence (CTI) Tools
 
 Cyber Threat  Intelligence (CTI) tools provide many critical advantages in threat hunting processes. These tools are essential for detecting and analyzing security threats and developing defense strategies against them. CTI tools collect threat information from various sources, analyze it, and  provide meaningful data to security teams. Below, the key features, use  cases, and examples of CTI tools are discussed in detail.  
 
