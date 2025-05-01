@@ -55,3 +55,4 @@ My repo for Let's Defend Notes.
 ### Threat Hunter
 
 - [Introduction to Threat Hunting](courses/threat_hunter/introduction_to_threat_hunting)
+- [Threat Hunting Tools](courses/threat_hunter/threat_hunting_tools)
