@@ -4,16 +4,16 @@ Dive into  the world of threat hunting with a focus on EDR (Endpoint Detection a
 
 **Table of content:**
 
-- Introduction
+- [Introduction](#introduction)
 
-- Importance of EDR Data for Threat Hunting
-- Core Functions of EDR in Threat Hunting
-- Lateral Movement and Internal Threat Hypothesis
-- Practical Lab-1
-- Practical Lab-2
-- Practical Lab-3
+- [Importance of EDR Data for Threat Hunting](#importance-of-edr-data-for-threat-hunting)
+- [Core Functions of EDR in Threat Hunting](#core-functions-of-edr-in-threat-hunting)
+- [Lateral Movement and Internal Threat Hypothesis](#lateral-movement-and-internal-threat-hypothesis)
+- [Practical Lab-1](#practical-lab-1)
+- [Practical Lab-2](#practical-lab-2)
+- [Practical Lab-3](#practical-lab-3)
 
-### Introduction
+## Introduction
 
 Threat hunting is a  fundamental practice in modern cybersecurity strategies. It involves  actively searching for potential security incidents and indicators of  compromise (IOCs) that can evade traditional security measures. In this  process, endpoint detection and response (EDR) tools play a critical  role by providing security teams with the data and capabilities they  need.
 
