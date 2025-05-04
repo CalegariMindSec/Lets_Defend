@@ -15,7 +15,7 @@ My repo for Let's Defend Notes.
 **Summary:**
 
 - [SOC Analyst Learning Path](#soc-analyst-learning-path)
-- Incident Responder
+- [Incident Responder](#incident-responder)
 
 ### SOC Analyst Learning Path
 
