@@ -6,15 +6,15 @@ Whether you're just  starting out in cybersecurity or looking to strengthen your
 
 **Table of content:**
 
-- Introduction
+- [Introduction](#introduction)
 
-- Role of SIEM in Threat Hunting
-- Creating and Testing Hypotheses
-- Insider Threat Hypothesis
-- Suspicious Admin Account Activity Hypothesis
-- Practical Lab-1
-- Practical Lab-2
-- Practical Lab-3
+- [Role of SIEM in Threat Hunting](#role-of-siem-in-threat-hunting)
+- [Creating and Testing Hypotheses](#creating-and-testing-hypotheses)
+- [Insider Threat Hypothesis](#insider-threat-hypothesis)
+- [Suspicious Admin Account Activity Hypothesis](#suspicious-admin-account-activity-hypothesis)
+- [Practical Lab-1](#practical-lab-1)
+- [Practical Lab-2](#practical-lab-2)
+- [Practical Lab-3](#practical-lab-3)
 
 ## Introduction
 
