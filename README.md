@@ -15,6 +15,7 @@ My repo for Let's Defend Notes.
 **Summary:**
 
 - [SOC Analyst Learning Path](#soc-analyst-learning-path)
+- Incident Responder
 
 ### SOC Analyst Learning Path
 
@@ -43,6 +44,12 @@ My repo for Let's Defend Notes.
 1. [Detecting Brute Force Attacks](paths/soc_analyst_learning_path/detecting_brute_force_attacks)
 1. [Building a Malware Analysis Lab](paths/soc_analyst_learning_path/building_a_malware_analysis_lab)
 1. [Building a SOC Lab at Home](paths/soc_analyst_learning_path/building_a_soc_lab_at_home)
+
+
+
+### Incident Responder
+
+1. 
 
 
 
