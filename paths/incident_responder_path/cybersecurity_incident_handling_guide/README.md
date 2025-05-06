@@ -4,13 +4,13 @@ In this  course, we will cover how to handle cybersecurity incidents properly,  
 
 **Table of content:** 
 
-- Introduction to Incident Handling
+- [Introduction to Incident Handling](#introduction-to-incident-handling)
 
-- Incident Handling Steps
-- Preparation
-- Detection and Analysis
-- Containment, Eradication, and Recovery
-- Post-Incident Activity
+- [Incident Handling Steps](#incident-handling-steps)
+- [Preparation](#preparation)
+- [Detection and Analysis](#detection-and-analysis)
+- [Containment, Eradication, and Recovery](#containment-eradication-and-recovery)
+- [Post-Incident Activity](#post-incident-activity)
 
 ## Introduction to Incident Handling
 
