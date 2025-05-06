@@ -1,6 +1,6 @@
 # Cybersecurity Incident Handling Guide
 
-In this  course, we will cover how to handle cybersecurity incidents properly,  incident response processes with its proper order along with the  recommendations of the "Computer Security Incident Handling Guide".
+In this  course, we will cover how to handle cybersecurity incidents properly, incident response processes with its proper order along with the  recommendations of the "Computer Security Incident Handling Guide".
 
 **Table of content:** 
 
