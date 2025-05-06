@@ -49,7 +49,7 @@ My repo for Let's Defend Notes.
 
 ### Incident Responder
 
-1. 
+1. [Cybersecurity Incident Handling Guide](paths/incident_responder_path/cybersecurity_incident_handling_guide)
 
 
 
