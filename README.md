@@ -50,6 +50,7 @@ My repo for Let's Defend Notes.
 ### Incident Responder
 
 1. [Cybersecurity Incident Handling Guide](paths/incident_responder_path/cybersecurity_incident_handling_guide)
+1. [Incident Response on Windows](paths/incident_responder_path/incident_response_on_windows)
 
 
 
