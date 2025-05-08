@@ -4,20 +4,20 @@ Enhance your cybersecurity expertise with our Incident Response on Windows  cour
 
 **Table of content:**
 
-- How to Create Incident Response Plan?
+- [How to Create Incident Response Plan?](#how-to-create-incident-response-plan)
 
-- Incident Response Procedure
-- 3 Important Things
-- Free Tools That Can Be Used
-- Live Memory Analysis - 1
-- Live Memory Analysis - 2
-- Users
-- Task Scheduler
-- Services
-- Registry Run Keys / Startup Folder
-- Files
-- Additional Solutions
-- Checklist
+- [Incident Response Procedure](#incident-response-procedure)
+- [3 Important Things](#3-important-things)
+- [Free Tools That Can Be Used](#free-tools-that-can-be-used)
+- [Live Memory Analysis - 1](#live-memory-analysis---1)
+- [Live Memory Analysis - 2](#live-memory-analysis---2)
+- [Users](#users)
+- [Task Scheduler](#task-scheduler)
+- [Services](#services)
+- [Registry Run Keys / Startup Folder](#registry-run-keys--startup-folder)
+- [Files](#files)
+- [Additional Solutions](#additional-solutions)
+- [Checklist](#checklist)
 
 ## How to Create Incident Response Plan?
 
