@@ -1,19 +1,19 @@
 # Threat Hunting with CTI
 
-In the "Threat Hunting with CTI" course, you'll delve into the practical  application of Cyber Threat Intelligence to proactively identify and  mitigate potential threats. The course offers hands-on tutorials,  providing you with the techniques and tools needed to effectively hunt  for threats before they materialize into incidents.
+In the "Threat Hunting with CTI" course, you'll delve into the practical application of Cyber Threat Intelligence to proactively identify and  mitigate potential threats. The course offers hands-on tutorials,  providing you with the techniques and tools needed to effectively hunt  for threats before they materialize into incidents.
 
 This course is designed for security professionals eager to expand their  knowledge in threat detection. You'll explore real-world scenarios,  harnessing CTI to anticipate and counteract cyber threats efficiently.  Whether you're new to the field or strengthening your existing skills,  this course will guide you through every essential step of the threat  hunting process.
 
 **Table of content:**
 
-- Introduction
+- [Introduction](#introduction)
 
-- CTI Resources
-- Threat Hunting Process with CTI
-- Phishing Campaign Hypothesis
-- Practical Lab-1
-- Practical Lab-2
-- Practical Lab-3
+- [CTI Resources](#cti-resources)
+- [Threat Hunting Process with CTI](#threat-hunting-process-with-cti)
+- [Phishing Campaign Hypothesis](#phishing-campaign-hypothesis)
+- [Practical Lab-1](#practical-lab-1)
+- [Practical Lab-2](#practical-lab-2)
+- [Practical Lab-3](#practical-lab-3)
 
 ## Introduction
 
