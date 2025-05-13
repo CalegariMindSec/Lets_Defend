@@ -66,4 +66,5 @@ My repo for Let's Defend Notes.
 - [Threat Hunting Tools](courses/threat_hunter/threat_hunting_tools)
 - [Threat Hunting with EDR](courses/threat_hunter/threat_hunting_with_edr)
 - [Threat Hunting with SIEM](courses/threat_hunter/threat_hunting_with_siem)
+- [Threat Hunting with CTI](courses/threat_hunter/threat_hunting_with_cti)
 
