@@ -4,20 +4,20 @@ Elevate your cybersecurity capabilities with our Incident Response on Linux  cou
 
 **Table of content:**
 
-- How to Create Incident Response Plan?
+- [How to Create Incident Response Plan?](#how-to-create-incident-response-plan)
 
-- Incident Response Procedure
-- 3 Important Things
-- Users and Groups
-- Processes
-- Files and File System
-- Mounts
-- Network
-- Service
-- Crontab
-- SSH Authorized Keys
-- Bash_rc & Bash_profile
-- Useful Log Files
+- [Incident Response Procedure](#incident-response-procedure)
+- [3 Important Things](#3-important-things)
+- [Users and Groups](#users-and-groups)
+- [Processes](#processes)
+- [Files and File System](#files-and-file-system)
+- [Mounts](#mounts)
+- [Network](#network)
+- [Service](#service)
+- [Crontab](#crontab)
+- [SSH Authorized Keys](#ssh-authorized-keys)
+- [Bash_rc & Bash_profile](#bash_rc--bash_profile)
+- [Useful Log Files](#useful-log-files)
 
 ## How to Create Incident Response Plan?
 
@@ -1337,7 +1337,7 @@ find / -name 'authorized_keys'
 
 > **Answer:** helpdesk
 
-### Bash_rc & Bash_profile
+## Bash_rc & Bash_profile
 
 In order to maintain persistence, attackers change the .bashrc and .bash_profile files for their own benefit.
 
@@ -1358,7 +1358,7 @@ cat .bashrc
 
 Since each user has different .bashrc and .bash_profile files, all  .bashrc and .bash profile files must be identified and examined. 
 
-### Useful Log Files
+## Useful Log Files
 
 As an incident responder, we must know which actions on the system are  recorded, where these actions are stored, and how we can use this  information during our incident response procedure. 
 
