@@ -53,6 +53,7 @@ My repo for Let's Defend Notes.
 1. [Incident Response on Windows](paths/incident_responder_path/incident_response_on_windows)
 1. [Incident Response on Linux](paths/incident_responder_path/incident_response_on_linux)
 1. [VBScript Suspicious Behavior Detected](paths/incident_responder_path/vbscript_suspicious_behavior_detected)
+1. [Hacked Web Server Analysis](hacked_web_server_analysis)
 
 
 
