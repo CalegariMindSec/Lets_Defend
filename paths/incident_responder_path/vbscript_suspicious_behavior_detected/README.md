@@ -11,6 +11,6 @@
 - **MITRE Technique**: T1547 - Persistence - Boot or Logon Autostart Execution,
 - **Severity**: Medium
 - **Type**: Incident Responder
-- **Security Report**: 
+- **Security Report**: https://github.com/CalegariMindSec/Lets_Defend/blob/main/security_reports/EventID_139%20-%20SOC189%20-%20VBScript%20Suspicious%20Behavior%20Detected.pdf
 
  
