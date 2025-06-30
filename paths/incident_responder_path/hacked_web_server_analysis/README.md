@@ -4,14 +4,14 @@ Learn how to analyze compromised web servers.
 
 **Table of Contents:**
 
-- Introduction to Hacked Web Server Analysis
-- Log Analysis on Web Servers
-- Attacks on Web Servers
-- Attacks Against Web Applications
-- Vulnerabilities on Servers
-- Vulnerabilities in Programming Language
-- Discovering the Web Shell
-- Hacked Web Server Analysis Example
+- [Introduction to Hacked Web Server Analysis](#introduction-to-hacked-web-server-analysis)
+- [Log Analysis on Web Servers](#log-analysis-on-web-servers)
+- [Attacks on Web Servers](#attacks-on-web-servers)
+- [Attacks Against Web Applications](#attacks-against-web-applications)
+- [Vulnerabilities on Servers](#vulnerabilities-on-servers)
+- [Vulnerabilities in Programming Language](#vulnerabilities-in-programming-language)
+- [Discovering the Web Shell](#discovering-the-web-shell)
+- [Hacked Web Server Analysis Example](#hacked-web-server-analysis-example)
 
 **Practice with SOC Alert**
 
@@ -54,7 +54,7 @@ Thus, it is crucial to pay attention to 3 steps during log analysis:
 
 In the following sections, UNIX tools will be used while performing  log analysis. If you are not familiar with these tools, we recommend  that you should complete the ["Linux for Blue Team"](https://app.letsdefend.io/training/lessons/linux-for-blue-team) training first to get a better understanding.
 
-### Log Analysis on Web Servers
+## Log Analysis on Web Servers
 
 While logging on web servers, requests made with the POST method may not be  logged by default. In this case, the situation can be compensated by  using modules such as mod_forensic or mod_security.
 
