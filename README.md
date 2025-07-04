@@ -55,7 +55,7 @@ My repo for Let's Defend Notes.
 1. [VBScript Suspicious Behavior Detected](paths/incident_responder_path/vbscript_suspicious_behavior_detected)
 1. [Hacked Web Server Analysis](paths/incident_responder_path/hacked_web_server_analysis)
 1. [Possible SQL Injection Payload Detected](paths/incident_responder_path/possible_sql_injection_payload_detected)
-1. Log Analysis with Sysmon
+1. [Log Analysis with Sysmon](paths/incident_responder_path/log_analysis_with_sysmon)
 
 
 
