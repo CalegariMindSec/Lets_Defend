@@ -4,10 +4,10 @@ Sysmon is one of the most important log sources on Windows machines. Learn how t
 
 **Table of Contents:**
 
-- Introduction and Set Up of Sysmon
-- Detecting Mimikatz with Sysmon
-- Detecting Pass The Hash with Sysmon
-- Detecting Privilege Escalation with Sysmon
+- [Introduction and Set Up of Sysmon](#introduction-and-set-up-of-sysmon)
+- [Detecting Mimikatz with Sysmon](#detecting-mimikatz-with-sysmon)
+- [Detecting Pass The Hash with Sysmon](#detecting-pass-the-hash-with-sysmon)
+- [Detecting Privilege Escalation with Sysmon](#detecting-privilege-escalation-with-sysmon)
 
 Evaluate Yourself with Quiz
 
