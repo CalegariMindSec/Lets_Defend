@@ -4,14 +4,14 @@ In this comprehensive course, participants will gain valuable insights  into the
 
 **Table of Contents:**
 
-- Introduction to GTFOBins
-- Shell
-- Command
-- Reverse Shell
-- Bind Shell
-- File Upload
-- File Download
-- Sudo
+- [Introduction to GTFOBins](#introduction-to-gtfobins)
+- [Shell](#shell)
+- [Command](#command)
+- [Reverse Shell](#reverse-shell)
+- [Bind Shell](#bind-shell)
+- [File Upload](#file-upload)
+- [File Download](#file-download)
+- [Sudo](#sudo)
 
 **Evaluate Yourself with Quiz**
 
