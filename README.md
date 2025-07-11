@@ -56,14 +56,14 @@ My repo for Let's Defend Notes.
 1. [Hacked Web Server Analysis](paths/incident_responder_path/hacked_web_server_analysis)
 1. [Possible SQL Injection Payload Detected](paths/incident_responder_path/possible_sql_injection_payload_detected)
 1. [Log Analysis with Sysmon](paths/incident_responder_path/log_analysis_with_sysmon)
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
+1. [Forensic Acquisition and Triage](paths/incident_responder_path/forensic_acquisition_and_triage)
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
 1. [GTFOBins](paths/incident_responder_path/gtfobins)
 
 
