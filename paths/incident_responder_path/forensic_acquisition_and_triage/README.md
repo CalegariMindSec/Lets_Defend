@@ -2,15 +2,15 @@
 
 End  of this course, you will learn how you acquire evidence and triage  infected machines. With our hands-on labs, you can practice what you  learned. That way will be great to learn it.
 
-Table of Contents
+**Table of Contents:**
 
-- Introduction to Forensics Acquisition and Triage
-- Acquiring Memory Image From Windows and Linux
-- Custom Image Using FTK and Mounting Image for Analysis
-- KAPE Targets for Acquisition
-- KAPE Modules for Triage and Analysis
-- Triage Using FireEye Redline
-- Acquisition and Triage of Disks Using Autopsy
+- [Introduction to Forensics Acquisition and Triage](#introduction-to-forensics-acquisition-and-triage)
+- [Acquiring Memory Image From Windows and Linux](#acquiring-memory-image-from-windows-and-linux)
+- [Custom Image Using FTK and Mounting Image for Analysis](#custom-image-using-ftk-and-mounting-image-for-analysis)
+- [KAPE Targets for Acquisition](#kape-targets-for-acquisition)
+- [KAPE Modules for Triage and Analysis](#kape-modules-for-triage-and-analysis)
+- [Triage Using FireEye Redline](#triage-using-fireeye-redline)
+- [Acquisition and Triage of Disks Using Autopsy](#acquisition-and-triage-of-disks-using-autopsy)
 
 **Evaluate Yourself with Quiz**
 
