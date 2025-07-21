@@ -4,11 +4,11 @@ Sometimes you can not find evidence on disk during analysis. Learn how to do mem
 
 Table of Contents
 
-- What is Memory Forensics?
-- [Memory Analysis Procedures]()
-- [Practical Analysis 1: Masqueraded Process]()
-- [Practical Analysis 2: Process Injection]()
-- [Practical Analysis 3: DLL Injection]()
+- [What is Memory Forensics?](#what-is-memory-forensics)
+- [Memory Analysis Procedures](#memory-analysis-procedures)
+- [Practical Analysis 1: Masqueraded Process](#practical-analysis-1-masqueraded-process)
+- [Practical Analysis 2: Process Injection](#practical-analysis-2-process-injection)
+- [Practical Analysis 3: DLL Injection](#practical-analysis-3-dll-injection)
 
 **Challenge**
 
