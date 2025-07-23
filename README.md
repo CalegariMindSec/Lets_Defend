@@ -60,7 +60,7 @@ My repo for Let's Defend Notes.
 1. [Memory Forensics](paths/incident_responder_path/memory_forensics)
 1. [Memory Analysis](paths/incident_responder_path/memory_analysis)
 1. 
-1. 
+1. Event Log Analysis(event_log_analysis)
 1. 
 1. 
 1. 
