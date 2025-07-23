@@ -4,16 +4,16 @@ This course will teach you the structure of Windows event logs and how you  can 
 
 **Table of Contents**:
 
-- [Introduction to Event Logs]()
-- [Event Log Analysis]()
-- [Authentication Event Logs]()
-- [Windows Scheduled Tasks Event Logs]()
-- [Windows Services Event Logs]()
-- [Account Management Events]()
-- [Event Log Manipulation]()
-- [Windows Firewall Event Logs]()
-- [Windows Defender Event Logs]()
-- [Powershell Command Execution Event logs]()
+- [Introduction to Event Logs](#introduction-to-event-logs)
+- [Event Log Analysis](#event-log-analysis-1)
+- [Authentication Event Logs](#authentication-event-logs)
+- [Windows Scheduled Tasks Event Logs](#windows-scheduled-tasks-event-logs)
+- [Windows Services Event Logs](#windows-services-event-logs)
+- [Account Management Events](#account-management-events)
+- [Event Log Manipulation](#event-log-manipulation)
+- [Windows Firewall Event Logs](#windows-firewall-event-logs)
+- [Windows Defender Event Logs](#windows-defender-event-logs)
+- [Powershell Command Execution Event logs](#powershell-command-execution-event-logs)
 
 **Practice with SOC Alert**
 
