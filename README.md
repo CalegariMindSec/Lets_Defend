@@ -65,6 +65,12 @@ My repo for Let's Defend Notes.
 1. 
 1. 
 1. [GTFOBins](paths/incident_responder_path/gtfobins)
+1.  
+1.  
+1.  
+1.  
+1.  
+1.  
 
 
 
