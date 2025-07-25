@@ -15,4 +15,4 @@
 
 - **Severity:** High
 
-- Type: Security Analyst
+- **Type:** Security Analyst
