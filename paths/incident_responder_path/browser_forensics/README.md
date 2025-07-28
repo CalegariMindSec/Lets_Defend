@@ -4,14 +4,14 @@ This course will explain how you can acquire the browser data for the  incident 
 
 **Table of Contents:**
 
-- [Introduction to Browser Forensics]()
-- [Acquisition]()
-- [Browser Artifacts]()
-- [Tool: BrowsingHistoryView]()
-- [Manual Browser Analysis]()
-- [Hindsight Framework]()
-- [Practical Case: Corporate Policy Violation]()
-- [Practical Case 2: Insider Threat]()
+- [Introduction to Browser Forensics](#introduction-to-browser-forensics)
+- [Acquisition](#acquisition)
+- [Browser Artifacts](#browser-artifacts)
+- [Tool: BrowsingHistoryView](#tool-browsinghistoryview)
+- [Manual Browser Analysis](#manual-browser-analysis)
+- [Hindsight Framework](#hindsight-framework)
+- [Practical Case: Corporate Policy Violation](#practical-case-corporate-policy-violation)
+- [Practical Case 2: Insider Threat](#practical-case-2-insider-threat)
 
 **Evaluate Yourself with Quiz**
 
