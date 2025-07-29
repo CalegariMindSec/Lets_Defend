@@ -63,14 +63,14 @@ My repo for Let's Defend Notes.
 1. [Event Log Analysis](paths/incident_responder_path/event_log_analysis)
 1. [Suspicious Powershell Script Executed](paths/incident_responder_path/suspicious_powershell_script_executed)
 1. [Browser Forensics](paths/incident_responder_path/browser_forensics)
-1. 
+1. [Suspicious Browser Extension](paths/incident_responder_path/suspicious_browser_extension)
 1. [GTFOBins](paths/incident_responder_path/gtfobins)
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
 
 
 
