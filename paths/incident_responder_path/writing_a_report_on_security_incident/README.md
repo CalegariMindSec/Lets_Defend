@@ -4,11 +4,11 @@ Writing a clear report is really important to understand what you did exactly fo
 
 **Table of Contents:**
 
-- [Introduction to Technical Writing]()
-- [Reporting Standards]()
-- [Reporting Style]()
-- [Report Formatting]()
-- [Report Templates]()
+- [Introduction to Technical Writing](#introduction-to-technical-writing)
+- [Reporting Standards](#reporting-standards)
+- [Reporting Style](#reporting-style)
+- [Report Formatting](#report-formatting)
+- [Report Templates](#report-templates)
 
 ## Introduction to Technical Writing
 
