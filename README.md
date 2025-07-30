@@ -66,7 +66,7 @@ My repo for Let's Defend Notes.
 1. [Suspicious Browser Extension](paths/incident_responder_path/suspicious_browser_extension)
 1. [GTFOBins](paths/incident_responder_path/gtfobins)
 1. 
-1. 
+1. Writing a Report on Security Incident(writing_a_report_on_security_incident)
 1. 
 1. 
 1. 
