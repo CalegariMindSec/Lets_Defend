@@ -4,15 +4,15 @@ Microsoft Windows is one of the most used operating systems to date. It is widel
 
 **Table of Contents:**
 
-- [Introduction to Windows Registry Forensics](https://app.letsdefend.io/training/lesson_detail/introduction-to-windows-registry-forensics)
-- [Acquiring Registry Hives](https://app.letsdefend.io/training/lesson_detail/acquiring-registry-hives)
-- [Regedit and Registry Explorer](https://app.letsdefend.io/training/lesson_detail/regedit-and-registry-explorer)
-- [System, Users and Network Information](https://app.letsdefend.io/training/lesson_detail/system-users-and-network-information)
-- [Shellbags](https://app.letsdefend.io/training/lesson_detail/shellbags)
-- [Shimcache](https://app.letsdefend.io/training/lesson_detail/shimcache)
-- [Amcache](https://app.letsdefend.io/training/lesson_detail/amcache)
-- [Recent Files](https://app.letsdefend.io/training/lesson_detail/recent-files)
-- [Dialogue Boxes MRU](https://app.letsdefend.io/training/lesson_detail/dialogue-boxes-mru)
+- [Introduction to Windows Registry Forensics](#introduction-to-windows-registry-forensics)
+- [Acquiring Registry Hives](#acquiring-registry-hives)
+- [Regedit and Registry Explorer](#regedit-and-registry-explorer)
+- [System, Users and Network Information](#system-users-and-network-information)
+- [Shellbags](#shellbags)
+- [Shimcache](#shimcache)
+- [Amcache](#amcache)
+- [Recent Files](#recent-files)
+- [Dialogue Boxes MRU](#dialogue-boxes-mru)
 
 **Practice with SOC Alert**
 
