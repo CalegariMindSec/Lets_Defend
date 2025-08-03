@@ -59,7 +59,7 @@ My repo for Let's Defend Notes.
 1. [Forensic Acquisition and Triage](paths/incident_responder_path/forensic_acquisition_and_triage)
 1. [Memory Forensics](paths/incident_responder_path/memory_forensics)
 1. [Memory Analysis](paths/incident_responder_path/memory_analysis)
-1. Windows Registry Forensics(windows_registry_forensics)
+1. [Windows Registry Forensics](paths/incident_responder_path/windows_registry_forensics)
 1. [Event Log Analysis](paths/incident_responder_path/event_log_analysis)
 1. [Suspicious Powershell Script Executed](paths/incident_responder_path/suspicious_powershell_script_executed)
 1. [Browser Forensics](paths/incident_responder_path/browser_forensics)
