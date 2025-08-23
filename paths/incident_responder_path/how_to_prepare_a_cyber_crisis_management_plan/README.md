@@ -2,12 +2,12 @@
 
 **Table of Contents:**
 
-- [Introduction to Crisis Management]()
-- [General Preparation]()
-- [Tools]()
-- [Preparing the Response Units]()
-- [Backups]()
-- [Alerts and End of Crisis]()
+- [Introduction to Crisis Management](#introduction-to-crisis-management)
+- [General Preparation](#general-preparation)
+- [Tools](#tools)
+- [Preparing the Response Units](#preparing-the-response-units)
+- [Backups](#backups)
+- [Alerts and End of Crisis](#alerts-and-end-of-crisis)
 
 ## Introduction to Crisis Management
 
