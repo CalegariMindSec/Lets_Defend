@@ -67,7 +67,7 @@ My repo for Let's Defend Notes.
 1. [GTFOBins](paths/incident_responder_path/gtfobins)
 1. 
 1. [Writing a Report on Security Incident](paths/incident_responder_path/writing_a_report_on_security_incident)
-1. How to Prepare a Cyber Crisis Management Plan?(how_to_prepare_a_cyber_crisis_management_plan)
+1. [How to Prepare a Cyber Crisis Management Plan?](paths/incident_responder_path/how_to_prepare_a_cyber_crisis_management_plan)
 1. 
 1. 
 1. 
