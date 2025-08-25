@@ -4,13 +4,13 @@ This course will teach you how to hunt common active directory attacks. Each  le
 
 **Table of Contents:**
 
-- [Introduction to Active Directory]()
-- [Hunting AS-REP Roasting Attack]()
-- [Hunting for Kerberoasting Attacks]()
-- [Hunting for LDAP Enumerations (Bloodhound_Sharphound)]()
-- [Hunting for NTDS Database Dumping]()
-- [Hunting for Golden Ticket Attacks]()
-- [Hunting for NTLM Relay Attacks]()
+- [Introduction to Active Directory](#introduction-to-active-directory)
+- [Hunting AS-REP Roasting Attack](#hunting-as-rep-roasting-attack)
+- [Hunting for Kerberoasting Attacks](#hunting-for-kerberoasting-attacks)
+- [Hunting for LDAP Enumerations (Bloodhound_Sharphound)](#hunting-for-ldap-enumerations-bloodhound_sharphound)
+- [Hunting for NTDS Database Dumping](#hunting-for-ntds-database-dumping)
+- [Hunting for Golden Ticket Attacks](#hunting-for-golden-ticket-attacks)
+- [Hunting for NTLM Relay Attacks](#hunting-for-ntlm-relay-attacks)
 
 **Evaluate Yourself with Quiz**
 
@@ -26,7 +26,7 @@ AD is an important component of many enterprise networks and is  widely used in 
 
 The main core of Active Directory is Kerberos. It is a protocol used  for authentication, authorization process for large scale environments.  We will cover basic terms in Active Directory as well as how Kerberos  authentication works.
 
-## What is Kerberos?
+### What is Kerberos?
 
 Kerberos is the default authentication service for Microsoft Windows  domains. It is intended to be more "secure" than NTLM by using third  party ticket authorization as well as stronger encryption. Even though  NTLM has a lot more attack vectors to choose from it still has a handful of underlying vulnerabilities just like Kerberos which still makes it a target for threat actors. It runs on UDP port 88.
 
