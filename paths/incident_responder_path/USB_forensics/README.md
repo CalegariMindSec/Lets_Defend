@@ -4,12 +4,12 @@ Dive  into the intricacies of USB forensics with this comprehensive course,  whe
 
 **Table of Contents:**
 
-- [Introduction to USB Forensics]()
-- [USB Registry Key]()
-- [USB Event Logs]()
-- [Folder Access Analysis via Shellbags]()
-- [File Access Analysis via Jumplists]()
-- [Automated USB Parsers Tools]()
+- [Introduction to USB Forensics](#introduction-to-usb-forensics)
+- [USB Registry Key](#usb-registry-key)
+- [USB Event Logs](#usb-event-logs)
+- [Folder Access Analysis via Shellbags](#folder-access-analysis-via-shellbags)
+- [File Access Analysis via Jumplists](#file-access-analysis-via-jumplists)
+- [Automated USB Parsers Tools](#automated-usb-parsers-tools)
 
 **Evaluate Yourself with Quiz**
 
