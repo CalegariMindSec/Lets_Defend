@@ -4,12 +4,12 @@ The  Advanced Event Log Analysis course provides incident responders with  compr
 
 **Table of Contents:**
 
-- [Process Creation]()
-- [DNS Activity]()
-- [File/Folder Monitoring]()
-- [BITS Client Event Log]()
-- [Network Connections Event Log]()
-- [MSI Event Logs]()
+- [Process Creation](#process-creation)
+- [DNS Activity](#dns-activity)
+- [File/Folder Monitoring](#filefolder-monitoring)
+- [BITS Client Event Log](#bits-client-event-log)
+- [Network Connections Event Log](#network-connections-event-log)
+- [MSI Event Logs](#msi-event-logs)
 
 **Evaluate Yourself with Quiz**
 
