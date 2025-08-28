@@ -70,7 +70,7 @@ My repo for Let's Defend Notes.
 1. [How to Prepare a Cyber Crisis Management Plan?](paths/incident_responder_path/how_to_prepare_a_cyber_crisis_management_plan)
 1. [Advanced Event Log Analysis](paths/incident_responder_path/advanced_event_log_analysis)
 1. [USB Forensics](paths/incident_responder_path/USB_forensics)
-1. 
+1. Windows Disk Forensics(windows_disk_forensics)
 
 
 
