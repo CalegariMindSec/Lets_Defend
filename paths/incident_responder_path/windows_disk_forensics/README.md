@@ -4,12 +4,12 @@ Windows Disk Forensics is a comprehensive course designed to equip participants 
 
 **Table of Contents:** 
 
-- [SRUM Database]()
-- [Jumplists]()
-- [Recycle Bin Artifacts]()
-- [Search Index]()
-- [RDP Cache]()
-- [Thumbnail Cache]()
+- [SRUM Database](#srum-database)
+- [Jumplists](#jumplists)
+- [Recycle Bin Artifacts](#recycle-bin-artifacts)
+- [Search Index](#search-index)
+- [RDP Cache](#rdp-cache)
+- [Thumbnail Cache](#thumbnail-cache)
 
 **Evaluate Yourself with Quiz**
 
