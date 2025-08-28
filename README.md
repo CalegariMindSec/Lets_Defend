@@ -68,7 +68,7 @@ My repo for Let's Defend Notes.
 1. [Hunting AD Attacks](paths/incident_responder_path/hunting_ad_attacks)
 1. [Writing a Report on Security Incident](paths/incident_responder_path/writing_a_report_on_security_incident)
 1. [How to Prepare a Cyber Crisis Management Plan?](paths/incident_responder_path/how_to_prepare_a_cyber_crisis_management_plan)
-1. Advanced Event Log Analysis(advanced_event_log_analysis)
+1. [Advanced Event Log Analysis](paths/incident_responder_path/advanced_event_log_analysis)
 1. [USB Forensics](paths/incident_responder_path/USB_forensics)
 1. 
 
