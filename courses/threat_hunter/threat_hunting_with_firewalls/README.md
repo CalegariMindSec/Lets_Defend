@@ -4,15 +4,15 @@ In the  digital era, securing network infrastructure has become paramount. Our  
 
 **Table of Contents:**
 
-[Introduction]()
+[Introduction](#introduction)
 
-[Information from Firewall Logs for Threat Hunting]()
+[Information from Firewall Logs for Threat Hunting](#information-from-firewall-logs-for-threat-hunting)
 
-[Threat Hunting Steps with Firewall Logs]()
+[Threat Hunting Steps with Firewall Logs](#threat-hunting-steps-with-firewall-logs)
 
-[Outbound Connection Hypothesis]()
+[Outbound Connection Hypothesis](#outbound-connection-hypothesis)
 
-[Practical Lab]()
+[Practical Lab](#practical-lab)
 
 **Evaluate Yourself with Quiz**
 
@@ -211,7 +211,7 @@ These analysis steps  provide strategies for detecting a sudden high number of a
 
 ## Practical Lab
 
-## Hypothesis
+### Hypothesis
 
 **Note**: The questions in this section are prepared for Threat Hunting based on the following hypothesis.
 
