@@ -4,11 +4,11 @@ In the ever-evolving landscape of cybersecurity, understanding how to detect  an
 
 **Table of Contents:**
 
-- [Introduction](https://app.letsdefend.io/training/lesson_detail/introduction-8cbc1a31)
-- [The Role of IPS/IDS in Threat Hunting](https://app.letsdefend.io/training/lesson_detail/the-role-of-ips-ids-in-threat-hunting)
-- [Using IPS/IDS in the Threat Hunting Process](https://app.letsdefend.io/training/lesson_detail/using-ips-ids-in-the-threat-hunting-process)
-- [Network Traffic Anomaly Hypothesis](https://app.letsdefend.io/training/lesson_detail/network-traffic-anomaly-hypothesis)
-- [Practical Lab](https://app.letsdefend.io/training/lesson_detail/practical-lab-65e9180c)
+- [Introduction](#introduction)
+- [The Role of IPS/IDS in Threat Hunting](#the-role-of-ipsids-in-threat-hunting)
+- [Using IPS/IDS in the Threat Hunting Process](#using-ipsids-in-the-threat-hunting-process)
+- [Network Traffic Anomaly Hypothesis](#network-traffic-anomaly-hypothesis)
+- [Practical Lab](#practical-lab)
 
 **Evaluate Yourself with Quiz**
 
