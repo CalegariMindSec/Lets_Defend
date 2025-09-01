@@ -90,4 +90,5 @@ My repo for Let's Defend Notes.
 - [Threat Hunting with SIEM](courses/threat_hunter/threat_hunting_with_siem)
 - [Threat Hunting with CTI](courses/threat_hunter/threat_hunting_with_cti)
 - [Threat Hunting with Firewalls](courses/threat_hunter/threat_hunting_with_firewalls)
+- [Threat Hunting with IPS/IDS](courses/threat_hunter/threat_hunting_with_IPS_IDS)
 
