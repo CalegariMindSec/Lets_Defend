@@ -4,7 +4,7 @@ My repo for Let's Defend Notes.
 ## Summary:
 
 - [Paths](#paths)
-- [Courses](#courses)
+- [Roles](#roles)
 
 
 
@@ -76,7 +76,7 @@ My repo for Let's Defend Notes.
 
 
 
-## Courses
+## Roles
 
 **Summary - Categories:**
 
