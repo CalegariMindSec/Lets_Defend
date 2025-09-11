@@ -4,11 +4,11 @@ This course delves into the intricate world of Threat Hunting using a Web  Appli
 
 **Table of Contents:**
 
-- [Introduction]()
-- [Role of WAF in Threat Hunting]()
-- [Using WAF in the Threat Hunting Process]()
-- [Web-based Brute Force Attack Hypothesis]()
-- [Practical Lab]()
+- [Introduction](#introduction)
+- [Role of WAF in Threat Hunting](#role-of-waf-in-threat-hunting)
+- [Using WAF in the Threat Hunting Process](#using-waf-in-the-threat-hunting-process)
+- [Web-based Brute Force Attack Hypothesis](#web-based-brute-force-attack-hypothesis)
+- [Practical Lab](#practical-lab)
 
 **Evaluate Yourself with Quiz**
 
