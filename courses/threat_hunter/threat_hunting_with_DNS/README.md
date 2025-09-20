@@ -4,12 +4,12 @@ Delve into the world of threat hunting with a specialized focus on DNS  (Domain 
 
 **Table of Contents:**
 
-- [Introduction]()
-- [Role of DNS Security Systems]()
-- [Using DNS Security Systems]()
-- [DNS queries and Data Exfiltration Hypothesis]()
-- [Suspicious DNS Queries Hypothesis]()
-- [Practical Lab]()
+- [Introduction](#introduction)
+- [Role of DNS Security Systems](#role-of-dns-security-systems)
+- [Using DNS Security Systems](#using-dns-security-systems)
+- [DNS queries and Data Exfiltration Hypothesis](#dns-queries-and-data-exfiltration-hypothesis)
+- [Suspicious DNS Queries Hypothesis](#suspicious-dns-queries-hypothesis)
+- [Practical Lab](#practical-lab)
 
 **Evaluate Yourself with Quiz**
 
