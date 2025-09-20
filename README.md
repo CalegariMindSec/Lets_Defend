@@ -92,4 +92,5 @@ My repo for Let's Defend Notes.
 - [Threat Hunting with Firewalls](courses/threat_hunter/threat_hunting_with_firewalls)
 - [Threat Hunting with IPS/IDS](courses/threat_hunter/threat_hunting_with_IPS_IDS)
 - [Threat Hunting with WAF](courses/threat_hunter/threat_hunting_with_WAF)
+- [Threat Hunting with DNS](courses/threat_hunter/threat_hunting_with_DNS)
 
