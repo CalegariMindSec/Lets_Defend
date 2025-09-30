@@ -16,6 +16,7 @@ My repo for Let's Defend Notes.
 
 - [SOC Analyst Learning Path](#soc-analyst-learning-path)
 - [Incident Responder](#incident-responder)
+- Detection Engineering 
 
 ### SOC Analyst Learning Path
 
@@ -71,6 +72,12 @@ My repo for Let's Defend Notes.
 1. [Advanced Event Log Analysis](paths/incident_responder_path/advanced_event_log_analysis)
 1. [USB Forensics](paths/incident_responder_path/USB_forensics)
 1. [Windows Disk Forensics](paths/incident_responder_path/windows_disk_forensics)
+
+
+
+### Detection Engineering
+
+1. Network Security
 
 
 
