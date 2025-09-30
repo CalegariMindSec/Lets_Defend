@@ -4,15 +4,15 @@ During  this course section, we'll explore the intricacies of network security, 
 
 **Table of Contents:**
 
-- [Introduction to Network Security]()
-- [Network Types]()
-- [Network Topology]()
-- [Network Devices]()
-- [Network Devices Syslog & SNMP Settings]()
-- [Protocol and Services]()
-- [Network Traffic Capture & Analyze]()
-- [Network Troubleshooting]()
-- [Top Network Attacks & Mitigation]()
+- [Introduction to Network Security](#introduction-to-network-security)
+- [Network Types](#network-types)
+- [Network Topology](#network-topology)
+- [Network Devices](#network-devices)
+- [Network Devices Syslog & SNMP Settings](#network-devices-syslog--snmp-settings)
+- [Protocol and Services](#protocol-and-services)
+- [Network Traffic Capture & Analyze](#network-traffic-capture--analyze)
+- [Network Troubleshooting](#network-troubleshooting)
+- [Top Network Attacks & Mitigation](#top-network-attacks--mitigation)
 
 **Evaluate Yourself with Quiz**
 
