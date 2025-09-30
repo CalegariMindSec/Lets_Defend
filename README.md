@@ -16,7 +16,7 @@ My repo for Let's Defend Notes.
 
 - [SOC Analyst Learning Path](#soc-analyst-learning-path)
 - [Incident Responder](#incident-responder)
-- Detection Engineering 
+- [Detection Engineering](#detection-engineering) 
 
 ### SOC Analyst Learning Path
 
@@ -77,7 +77,7 @@ My repo for Let's Defend Notes.
 
 ### Detection Engineering
 
-1. Network Security
+1. [Network Security](paths/detection_engineering_path/network_security)
 
 
 
