@@ -6,25 +6,25 @@ Students will gain insights into the fundamentals of network design,  including 
 
 **Table of Contents:**
 
-[Introduction to Network Design]()
+[Introduction to Network Design](#introduction-to-network-design)
 
-[Network Topology Design]()
+[Network Topology Design](#network-topology-design)
 
-[Segmentation]()
+[Segmentation](#segmentation)
 
-[Network-Based Segmentation and Features]()
+[Network-Based Segmentation and Features](#network-based-segmentation-and-features)
 
-[How to Implement Network-Based Segmentation?]()
+[How to Implement Network-Based Segmentation?](#how-to-implement-network-based-segmentation)
 
-[Application-Based Segmentation]()
+[Application-Based Segmentation](#application-based-segmentation)
 
-[Subnetting]()
+[Subnetting](#subnetting)
 
-[Firewalls and Types]()
+[Firewalls and Types](#firewalls-and-types)
 
-[Network Security Products (IDS, IPS, WAF, and NAC)]()
+[Network Security Products (IDS, IPS, WAF, and NAC)](#network-security-products-ids-ips-waf-and-nac)
 
-[Network Security Products-2]()
+[Network Security Products-2](#network-security-products-2)
 
 **Evaluate Yourself with Quiz**
 
@@ -36,7 +36,7 @@ Designing a secure network infrastructure should be one of the most  critical ta
 
 Let’s start our training with the “**Network Topology Design**” topic.
 
-### Network Topology Design
+## Network Topology Design
 
 When designing a secure network infrastructure, it is a must that we  should consider both the physical and logical dimensions of network  topology. In this section, we will explore various categories of the  network topology. Before diving into these topology types, we should  mention the criterias that we should consider when determining our  optimal topology. Some of those criterias are as follows:
 
