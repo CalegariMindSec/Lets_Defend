@@ -79,7 +79,7 @@ My repo for Let's Defend Notes.
 
 1. [Network Security](paths/detection_engineering_path/network_security)
 1. [Network Design and Security Products](paths/detection_engineering_path/network_design_and_security_products)
-1. Secure Network Design(paths/detection_engineering_path/secure_network_design)
+1. [Secure Network Design](paths/detection_engineering_path/secure_network_design)
 
 
 
