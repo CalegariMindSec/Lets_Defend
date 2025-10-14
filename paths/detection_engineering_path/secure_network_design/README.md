@@ -4,15 +4,14 @@ The  "Secure Network Design" course offers comprehensive insights into  designin
 
 **Table of Contents:**
 
-- [Introduction to Secure Network Design]()
-- [Overview of Security Principles]()
-- [Security Principle: Access Control]()
-- [Functional Separation and the Principles of the Least Privilege]()
-- [Strong Authentication Methods]()
-- [Session Management]()
-- [Static and Dynamic Data]()
-
-[Identification and Remediation of Weak Links](https://app.letsdefend.io/training/lesson_detail/identification-and-remediation-of-weak-links)
+- [Introduction to Secure Network Design](#introduction-to-secure-network-design)
+- [Overview of Security Principles](#overview-of-security-principles)
+- [Security Principle: Access Control](#security-principle-access-control)
+- [Functional Separation and the Principles of the Least Privilege](#functional-separation-and-the-principles-of-the-least-privilege)
+- [Strong Authentication Methods](#strong-authentication-methods)
+- [Session Management](#session-management)
+- [Static and Dynamic Data](#static-and-dynamic-data)
+- [Identification and Remediation of Weak Links](#identification-and-remediation-of-weak-links)
 
 **Evaluate Yourself with Quiz**
 
