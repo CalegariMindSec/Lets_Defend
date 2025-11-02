@@ -4,12 +4,12 @@ Certainly, in this course, "Introduction to System Security" we will provide a  
 
 **Table of Contents:**
 
-- [System Security Overview]()
-- [Operating Systems]()
-- [Process and Memory Management]()
-- [File and Network Management]()
-- [Patch Management, Update and Upgrade]()
-- [Log Infrastructure]()
+- [System Security Overview](#system-security-overview)
+- [Operating Systems](#operating-systems)
+- [Process and Memory Management](#process-and-memory-management)
+- [File and Network Management](#file-and-network-management)
+- [Patch Management, Update and Upgrade](#patch-management-update-and-upgrade)
+- [Log Infrastructure](#log-infrastructure)
 
 **Evaluate Yourself with Quiz**
 
