@@ -4,13 +4,13 @@ Gain in-depth expertise in cybersecurity principles with our comprehensive  cour
 
 **Table of Contents:**
 
-- [What is Authentication and What are Authentication Methods?](https://app.letsdefend.io/training/lesson_detail/what-is-authentication-and-what-are-authentication)
-- [Authentication and Authorization Methods](https://app.letsdefend.io/training/lesson_detail/authentication-and-authorization-methods)
-- [Authentication and Authorization Processes](https://app.letsdefend.io/training/lesson_detail/authentication-and-authorization-processes)
-- [Authentication and Authorization Applications](https://app.letsdefend.io/training/lesson_detail/authentication-and-authorization-applications)
-- [Authentication and Authorization Security Tips](https://app.letsdefend.io/training/lesson_detail/authentication-and-authorization-security-tips)
-- [Related Technologies and Standards](https://app.letsdefend.io/training/lesson_detail/related-technologies-and-standards)
-- [Sample Scenarios and Application Reviews](https://app.letsdefend.io/training/lesson_detail/sample-scenarios-and-application-reviews)
+- [What is Authentication and What are Authentication Methods?](#what-is-authentication-and-what-are-authentication-methods)
+- [Authentication and Authorization Methods](#authentication-and-authorization-methods)
+- [Authentication and Authorization Processes](#authentication-and-authorization-processes)
+- [Authentication and Authorization Applications](#authentication-and-authorization-applications)
+- [Authentication and Authorization Security Tips](#authentication-and-authorization-security-tips)
+- [Related Technologies and Standards](#related-technologies-and-standards)
+- [Sample Scenarios and Application Reviews](#sample-scenarios-and-application-reviews)
 
 **Evaluate Yourself with Quiz**
 
