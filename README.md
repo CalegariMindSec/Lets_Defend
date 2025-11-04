@@ -82,6 +82,7 @@ My repo for Let's Defend Notes.
 1. [Secure Network Design](paths/detection_engineering_path/secure_network_design)
 1. [Introduction to System Security](paths/detection_engineering_path/introduction_to_system_security)
 1. [Introduction to System Security - 2](paths/detection_engineering_path/introduction_to_system_security_2)
+1. [Authentication and Authorization](paths/detection_engineering_path/authentication_and_authorization)
 
 
 
