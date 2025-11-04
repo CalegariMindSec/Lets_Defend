@@ -4,13 +4,13 @@ Certainly, in this course, "Introduction to System Security 2" we will provide a
 
 **Table of Contents:**
 
-- [Firewall]()
-- [Malware Protection]()
-- [Backup]()
-- [Backup Types and Mediums]()
-- [Backup and Restore Processes]()
-- [Backup Security and Data Recovery (Disaster Recovery)]()
-- [Physical Security]()
+- [Firewall](#firewall)
+- [Malware Protection](#malware-protection)
+- [Backup](#backup)
+- [Backup Types and Mediums](#backup-types-and-mediums)
+- [Backup and Restore Processes](#backup-and-restore-processes)
+- [Backup Security and Data Recovery (Disaster Recovery)](#backup-security-and-data-recovery-disaster-recovery)
+- [Physical Security](#physical-security)
 
 Evaluate Yourself with Quiz
 
