@@ -4,12 +4,12 @@ Whether you're a seasoned professional or a novice in the realm of digital  secu
 
 **Table of Contents:**
 
-- [Password Creation Principles]()
-- [Password Update and Change]()
-- [Password Storage and Encryption]()
-- [Password Sharing and Communication]()
-- [Password Theft and Threats]()
-- [Password Managers and Automatic Encryption Tools]()
+- [Password Creation Principles](#password-creation-principles)
+- [Password Update and Change](#password-update-and-change)
+- [Password Storage and Encryption](#password-storage-and-encryption)
+- [Password Sharing and Communication](#password-sharing-and-communication)
+- [Password Theft and Threats](#password-theft-and-threats)
+- [Password Managers and Automatic Encryption Tools](#password-managers-and-automatic-encryption-tools)
 
 **Evaluate Yourself with Quiz**
 
