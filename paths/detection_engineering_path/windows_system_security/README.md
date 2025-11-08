@@ -4,12 +4,12 @@ The  "Windows System Security" course is a comprehensive program that equips  pa
 
 **Table of Contents:**
 
-- [Windows System Security Fundamentals]()
-- [User and Group Management]()
-- [Active Directory Security - 1]()
-- [Active Directory Security - 2]()
-- [Windows DNS Security]()
-- [Windows DHCP Security]()
+- [Windows System Security Fundamentals](#windows-system-security-fundamentals)
+- [User and Group Management](#user-and-group-management)
+- [Active Directory Security - 1](#active-directory-security---1)
+- [Active Directory Security - 2](#active-directory-security---2)
+- [Windows DNS Security](#windows-dns-security)
+- [Windows DHCP Security](#windows-dhcp-security)
 
 Evaluate Yourself with Quiz
 
