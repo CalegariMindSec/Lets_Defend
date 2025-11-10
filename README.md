@@ -85,6 +85,7 @@ My repo for Let's Defend Notes.
 1. [Authentication and Authorization](paths/detection_engineering_path/authentication_and_authorization)
 1. [Password Management](paths/detection_engineering_path/password_management)
 1. [Windows System Security](paths/detection_engineering_path/windows_system_security)
+1. [Windows System Security - 2](paths/detection_engineering_path/windows_system_security_2)
 
 
 
