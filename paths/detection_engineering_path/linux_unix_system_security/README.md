@@ -4,13 +4,13 @@ Explore  the intricate world of Linux/Unix system security in this comprehensive
 
 **Table of Contents:**
 
-- [Introduction to Linux/Unix System Security]()
-- [Linux Distributions]()
-- [Update & Upgrade on Linux/Unix]()
-- [Authentication on Linux/Unix]()
-- [Authorization on Linux/Unix]()
-- [Password Management on Linux/Unix]()
-- [Password Policies on Linux/Unix]()
+- [Introduction to Linux/Unix System Security](#introduction-to-linuxunix-system-security)
+- [Linux Distributions](#linux-distributions)
+- [Update & Upgrade on Linux/Unix](#update--upgrade-on-linuxunix)
+- [Authentication on Linux/Unix](#authentication-on-linuxunix)
+- [Authorization on Linux/Unix](#authorization-on-linuxunix)
+- [Password Management on Linux/Unix](#password-management-on-linuxunix)
+- [Password Policies on Linux/Unix](#password-policies-on-linuxunix)
 
 **Evaluate Yourself with Quiz**
 
