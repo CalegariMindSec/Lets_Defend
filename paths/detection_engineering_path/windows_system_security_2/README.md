@@ -4,11 +4,11 @@ Take your Windows system security knowledge to the next level with our  advanced
 
 **Table of Contents:**
 
-- [Local Security Policy, Group Policy and UAC](https://app.letsdefend.io/training/lesson_detail/local-security-policy-group-policy-and-uac)
-- [Authentication and Authorization on Windows](https://app.letsdefend.io/training/lesson_detail/authentication-and-authorization-on-windows)
-- [Update and Patch Management](https://app.letsdefend.io/training/lesson_detail/update-and-patch-management)
-- [Antivirus, Malware and Threat Protection](https://app.letsdefend.io/training/lesson_detail/antivirus-malware-and-threat-protection)
-- [Windows Log Infrastructure](https://app.letsdefend.io/training/lesson_detail/windows-log-infrastructure)
+- [Local Security Policy, Group Policy and UAC](#local-security-policy-group-policy-and-uac)
+- [Authentication and Authorization on Windows](#authentication-and-authorization-on-windows)
+- [Update and Patch Management](#update-and-patch-management)
+- [Antivirus, Malware and Threat Protection](#antivirus-malware-and-threat-protection)
+- [Windows Log Infrastructure](#windows-log-infrastructure)
 
 Evaluate Yourself with Quiz
 
