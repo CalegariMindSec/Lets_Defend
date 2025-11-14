@@ -500,51 +500,5 @@ Linux has many powerful  tools to provide full control over network security and
 
 3 - Which source IP address can access the “3306” port on the system you are accessing?
 
-> **Answer:** 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> **Answer:** 172.16.1.54
 
