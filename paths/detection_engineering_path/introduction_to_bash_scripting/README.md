@@ -4,12 +4,12 @@ This  course is designed to provide detection engineers in the cybersecurity  fi
 
 **Table of Contents:**
 
-- [Introduction to Bash]()
-- [Setting up the Bash Environment]()
-- [Basics of Bash Scripting]()
-- [Loops]()
-- [Functions]()
-- [Error Handling]()
+- [Introduction to Bash](#introduction-to-bash)
+- [Setting up the Bash Environment](#setting-up-the-bash-environment)
+- [Basics of Bash Scripting](#basics-of-bash-scripting)
+- [Loops](#loops)
+- [Functions](#functions)
+- [Error Handling](#error-handling)
 
 **Evaluate Yourself with Quiz**
 
