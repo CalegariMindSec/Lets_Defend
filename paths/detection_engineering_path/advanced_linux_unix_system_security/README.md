@@ -4,13 +4,13 @@ The  "Advanced Linux/Unix System Security" course is designed to empower  partic
 
 **Table of Contents:** 
 
-- [Linux Log Infrastructure]()
-- [Syslog and Rsyslog]()
-- [Rotation and Management of Log Files]()
-- [SElinux/Apparmor-1]()
-- [SElinux/Apparmor-2]()
-- [Linux Firewall]()
-- [Uncomplicated Firewall (UFW)]()
+- [Linux Log Infrastructure](#linux-log-infrastructure)
+- [Syslog and Rsyslog](#syslog-and-rsyslog)
+- [Rotation and Management of Log Files](#rotation-and-management-of-log-files)
+- [SElinux/Apparmor-1](#selinuxapparmor-1)
+- [SElinux/Apparmor-2](#selinuxapparmor-2)
+- [Linux Firewall](#linux-firewall)
+- [Uncomplicated Firewall (UFW)](#uncomplicated-firewall-ufw)
 
 **Evaluate Yourself with Quiz**
 
