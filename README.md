@@ -89,6 +89,7 @@ My repo for Let's Defend Notes.
 1. [Linux/Unix System Security](paths/detection_engineering_path/linux_unix_system_security)
 1. [Advanced Linux/Unix System Security](paths/detection_engineering_path/advanced_linux_unix_system_security)
 1. [Introduction to Bash Scripting](paths/detection_engineering_path/introduction_to_bash_scripting)
+1. [Advanced Bash Scripting](paths/detection_engineering_path/advanced_bash_scripting)
 
 
 
