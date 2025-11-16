@@ -4,11 +4,11 @@ The  "Advanced Bash Scripting" course is designed to improve participants'  know
 
 **Table of Contents:**
 
-- [Command Line Arguments]()
-- [Shell Expansion - 1]()
-- [Shell Expansion - 2]()
-- [File and Directory Operations]()
-- [RegEx and Bash]()
+- [Command Line Arguments](#command-line-arguments)
+- [Shell Expansion - 1](#shell-expansion---1)
+- [Shell Expansion - 2](#shell-expansion---2)
+- [File and Directory Operations](#file-and-directory-operations)
+- [RegEx and Bash](#regex-and-bash)
 
 **Evaluate Yourself with Quiz**
 
