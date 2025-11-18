@@ -90,6 +90,7 @@ My repo for Let's Defend Notes.
 1. [Advanced Linux/Unix System Security](paths/detection_engineering_path/advanced_linux_unix_system_security)
 1. [Introduction to Bash Scripting](paths/detection_engineering_path/introduction_to_bash_scripting)
 1. [Advanced Bash Scripting](paths/detection_engineering_path/advanced_bash_scripting)
+1. [Bash Scripting for Blue Team](paths/detection_engineering_path/bash_scripting_for_blue_team)
 
 
 
