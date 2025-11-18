@@ -4,12 +4,12 @@ The  "Bash Scripting for Blue Team" course focuses on providing the essential sc
 
 **Table of Contents:**
 
-- [Security of the Bash Scripts - 1]()
-- [Security of the Bash Scripts - 2]()
-- [Security and Monitoring with Bash]()
-- [Network Monitoring with Bash]()
-- [System Security Audit with Bash]()
-- [Forensic and Incident Response with Bash]()
+- [Security of the Bash Scripts - 1](#security-of-the-bash-scripts---1)
+- [Security of the Bash Scripts - 2](#security-of-the-bash-scripts---2)
+- [Security and Monitoring with Bash](#security-and-monitoring-with-bash)
+- [Network Monitoring with Bash](#network-monitoring-with-bash)
+- [System Security Audit with Bash](#system-security-audit-with-bash)
+- [Forensic and Incident Response with Bash](#forensic-and-incident-response-with-bash)
 
 Evaluate Yourself with Quiz
 
@@ -67,7 +67,7 @@ And (if the 'lets defend' directory actually exists) the script would run just f
 
 Here, we have tried to  explain the subject as simply as possible. What you should not forget is that we create the values of the variables programmatically and we  cannot predict which values may come during the execution of the script  most of the time. It would be a great starting point to call our  variable names in double quotes to be prepared for any situation for  safe bash scripts.  
 
-## Untrusted Inputs
+### Untrusted Inputs
 
 Having your bash scripts  accept untrusted input allows attackers to execute malicious code. To  prevent this type of attack, we must always verify and sanitize user  inputs.
 
