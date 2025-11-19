@@ -97,7 +97,7 @@ My repo for Let's Defend Notes.
 1.  
 1.  
 1.  
-1. Cyber Threat Intelligence for Detection(cyber_threat_intelligence_for_detection)
+1. [Cyber Threat Intelligence for Detection](paths/detection_engineering_path/cyber_threat_intelligence_for_detection)
 
 
 
