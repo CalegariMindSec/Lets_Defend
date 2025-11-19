@@ -4,10 +4,10 @@ The "Cyber Threat Intelligence for Detection" course is dedicated to equipping  
 
 **Table of Contents:**
 
-- [Understanding of CTI Concept]()
-- [Introduction to Darkweb]()
-- [Monitoring Darkweb]()
-- [Malware, IOCs, Threat Groups]()
+- [Understanding of CTI Concept](#understanding-of-cti-concept)
+- [Introduction to Darkweb](#introduction-to-darkweb)
+- [Monitoring Darkweb](#monitoring-darkweb)
+- [Malware, IOCs, Threat Groups](#malware-iocs-threat-groups)
 
 Evaluate Yourself with Quiz
 
