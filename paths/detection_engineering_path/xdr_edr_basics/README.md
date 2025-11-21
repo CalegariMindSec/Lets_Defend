@@ -4,11 +4,11 @@ The  "XDR-EDR Basics" course is an introductory exploration of Extended  Detecti
 
 Table of Contents
 
-- [XDR/EDR Introduction]()
-- [Common XDR/EDR Products]()
-- [EDR/XDR Installation and Configuration Process]()
-- [Managing Endpoints with EDR/XDR]()
-- [Data Collection and Log Integration for XDR]()
+- [XDR/EDR Introduction](#xdredr-introduction)
+- [Common XDR/EDR Products](#common-xdredr-products)
+- [EDR/XDR Installation and Configuration Process](#edrxdr-installation-and-configuration-process)
+- [Managing Endpoints with EDR/XDR](#managing-endpoints-with-edrxdr)
+- [Data Collection and Log Integration for XDR](#data-collection-and-log-integration-for-xdr)
 
 Evaluate Yourself with Quiz
 
