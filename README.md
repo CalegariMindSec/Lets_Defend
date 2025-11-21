@@ -91,13 +91,15 @@ My repo for Let's Defend Notes.
 1. [Introduction to Bash Scripting](paths/detection_engineering_path/introduction_to_bash_scripting)
 1. [Advanced Bash Scripting](paths/detection_engineering_path/advanced_bash_scripting)
 1. [Bash Scripting for Blue Team](paths/detection_engineering_path/bash_scripting_for_blue_team)
-1.  
-1.  
-1.  
-1.  
-1.  
-1.  
+1. 
+1. 
+1. 
+1. 
+1. 
+1. 
 1. [Cyber Threat Intelligence for Detection](paths/detection_engineering_path/cyber_threat_intelligence_for_detection)
+1.  
+1. [XDR/EDR Basics](paths/detection_engineering_path/xdr_edr_basics)
 
 
 
