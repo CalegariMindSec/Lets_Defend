@@ -96,9 +96,9 @@ My repo for Let's Defend Notes.
 1. 
 1. 
 1. 
-1. 
+1. [Attack Surface Management](paths/detection_engineering_path/attack_surface_management)
 1. [Cyber Threat Intelligence for Detection](paths/detection_engineering_path/cyber_threat_intelligence_for_detection)
-1.  
+1. 
 1. [XDR/EDR Basics](paths/detection_engineering_path/xdr_edr_basics)
 
 
@@ -122,4 +122,5 @@ My repo for Let's Defend Notes.
 - [Threat Hunting with IPS/IDS](courses/threat_hunter/threat_hunting_with_IPS_IDS)
 - [Threat Hunting with WAF](courses/threat_hunter/threat_hunting_with_WAF)
 - [Threat Hunting with DNS](courses/threat_hunter/threat_hunting_with_DNS)
+- [Threat Hunting for Web Attacks](courses/threat_hunter/threat_hunting_for_web_attacks)
 
