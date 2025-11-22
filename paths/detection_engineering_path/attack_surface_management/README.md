@@ -4,10 +4,10 @@ The  "Attack Surface Management" course explores ways of identifying and  reduci
 
 Table of Contents
 
-- [What is Attack Surface?]()
-- [Understanding Attack Surface Management (ASM)]()
-- [Attack Surface Management with Open Source Tools - 1]()
-- [Attack Surface Management with Open Source Tools - 2]()
+- [What is Attack Surface?](#what-is-attack-surface)
+- [Understanding Attack Surface Management (ASM)](#understanding-attack-surface-management-asm)
+- [Attack Surface Management with Open Source Tools - 1](#attack-surface-management-with-open-source-tools---1)
+- [Attack Surface Management with Open Source Tools - 2](#attack-surface-management-with-open-source-tools---2)
 
 Evaluate Yourself with Quiz
 
