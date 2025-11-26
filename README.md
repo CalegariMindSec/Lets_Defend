@@ -105,11 +105,11 @@ My repo for Let's Defend Notes.
 1. 
 1. 
 1. [SIEM Alert Generation](paths/detection_engineering_path/siem_alert_generation)
-1.  
+1. 
 1. [SIEM Alert Tuning](paths/detection_engineering_path/siem_alert_tuning)
-1.  
-1.  
-1.  
+1.  [SOAR Fundamentals](paths/detection_engineering_path/soar_fundamentals)
+1. 
+1. 
 
 
 
