@@ -4,10 +4,10 @@ The  "SIEM Alert Tuning" course focuses on developing specialized skills in  fin
 
 **Table of Contents:**
 
-- [False Positive Alert](t)
-- [Why is False Positive Alert Tuning Necessary?]()
-- [F/P Alert Tuning with IBM QRadar]()
-- [F/P Alert Tuning with IBM QRadar - 2]()
+- [False Positive Alert](#false-positive-alert)
+- [Why is False Positive Alert Tuning Necessary?](#why-is-false-positive-alert-tuning-necessary)
+- [F/P Alert Tuning with IBM QRadar](#fp-alert-tuning-with-ibm-qradar)
+- [F/P Alert Tuning with IBM QRadar - 2](#fp-alert-tuning-with-ibm-qradar---2)
 
 Evaluate Yourself with Quiz
 

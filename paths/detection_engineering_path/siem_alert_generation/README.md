@@ -4,11 +4,11 @@ The  "SIEM Alert Generation" course focuses on providing specialized training fo
 
 Table of Contents
 
-- [SIEM and Rule/Correlation]()
-- [Basic Components of the Correlation Rule]()
-- [Creating Rules/Correlation]()
-- [Sample Rule/Correlations]()
-- [Creating Alarms]()
+- [SIEM and Rule/Correlation](#siem-and-rulecorrelation)
+- [Basic Components of the Correlation Rule](#basic-components-of-the-correlation-rule)
+- [Creating Rules/Correlation](#creating-rulescorrelation)
+- [Sample Rule/Correlations](#sample-rulecorrelations)
+- [Creating Alarms](#creating-alarms)
 
 Evaluate Yourself with Quiz
 
