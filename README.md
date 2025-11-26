@@ -100,6 +100,11 @@ My repo for Let's Defend Notes.
 1. [Cyber Threat Intelligence for Detection](paths/detection_engineering_path/cyber_threat_intelligence_for_detection)
 1. [Vulnerability Management](paths/detection_engineering_path/vulnerability_management)
 1. [XDR/EDR Basics](paths/detection_engineering_path/xdr_edr_basics)
+1.  
+1.  
+1.  
+1.  
+1. [SIEM Alert Generation](paths/detection_engineering_path/siem_alert_generation)
 
 
 
