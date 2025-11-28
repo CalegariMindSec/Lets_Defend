@@ -4,11 +4,11 @@ The "SOAR  Fundamentals" course provides a foundational understanding of Securit
 
 **Table of Contents:**
 
-- [What is SOAR?]()
-- [Main Components of SOAR and Common Products]()
-- [SOAR Planning and Sustainment]()
-- [SOAR Planning and Sustainment - 2]()
-- [SOAR Human Resources]()
+- [What is SOAR?](#what-is-soar)
+- [Main Components of SOAR and Common Products](#main-components-of-soar-and-common-products)
+- [SOAR Planning and Sustainment](#soar-planning-and-sustainment)
+- [SOAR Planning and Sustainment - 2](#soar-planning-and-sustainment---2)
+- [SOAR Human Resources](#soar-human-resources)
 
 Evaluate Yourself with Quiz
 
