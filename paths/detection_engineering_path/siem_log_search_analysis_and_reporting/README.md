@@ -4,12 +4,12 @@ The  "SIEM Log Search, Analysis, and Reporting" course is designed to provide sp
 
 Table of Contents
 
-- [Introduction to Log Search and Reporting]()
-- [Log Search with SIEM]()
-- [Log Search with IBM QRadar](r)
-- [Log Analysis with SIEM]()
-- [SIEM Reporting]()
-- [Reporting with IBM QRadar]()
+- [Introduction to Log Search and Reporting](#introduction-to-log-search-and-reporting)
+- [Log Search with SIEM](#log-search-with-siem)
+- [Log Search with IBM QRadar](#log-search-with-ibm-qradar)
+- [Log Analysis with SIEM](#log-analysis-with-siem)
+- [SIEM Reporting](#siem-reporting)
+- [Reporting with IBM QRadar](#reporting-with-ibm-qradar)
 
 Evaluate Yourself with Quiz
 
