@@ -4,12 +4,12 @@ The  "Introduction to PowerShell" course is designed to provide participants  wi
 
 **Table of Contents:** 
 
-- [Introduction to PowerShell]()
-- [Installing the Powershell Environment]()
-- [Basics of Powershell Commands]()
-- [Basics of Powershell Commands - 2]()
-- [File and Directory Operations in Powershell]()
-- [Optimization and Error Handling]()
+- [Introduction to PowerShell](#introduction-to-powershell-1)
+- [Installing the Powershell Environment](#installing-the-powershell-environment)
+- [Basics of Powershell Commands](#basics-of-powershell-commands)
+- [Basics of Powershell Commands - 2](#basics-of-powershell-commands---2)
+- [File and Directory Operations in Powershell](#file-and-directory-operations-in-powershell)
+- [Optimization and Error Handling](#optimization-and-error-handling)
 
 Evaluate Yourself with Quiz
 
