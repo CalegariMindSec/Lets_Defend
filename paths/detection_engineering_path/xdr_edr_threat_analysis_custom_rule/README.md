@@ -4,11 +4,11 @@ The  "XDR/EDR Threat Analysis & Custom Rule" course is designed to  empower part
 
 **Table of Contents:**
 
-- [Fundamentals of Threat Analysis]()
-- [Threat Detection and Classification with EDR/XDR]()
-- [Threat Management and Analysis]()
-- [Data Collection and Analysis with EDR]()
-- [Creating Custom EDR Rules and Policies]()
+- [Fundamentals of Threat Analysis](#fundamentals-of-threat-analysis)
+- [Threat Detection and Classification with EDR/XDR](#threat-detection-and-classification-with-edrxdr)
+- [Threat Management and Analysis](#threat-management-and-analysis)
+- [Data Collection and Analysis with EDR](#data-collection-and-analysis-with-edr)
+- [Creating Custom EDR Rules and Policies](#creating-custom-edr-rules-and-policies)
 
 **Evaluate Yourself with Quiz**
 
