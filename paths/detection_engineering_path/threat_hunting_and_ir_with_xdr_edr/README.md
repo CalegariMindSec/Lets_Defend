@@ -4,10 +4,10 @@ The  "Threat Hunting and Incident Response with XDR/EDR" course provides  compre
 
 **Table of Contents:**
 
-- [What is Threat Hunting?]()
-- [Purpose and Methods of Threat Hunting]()
-- [Threat Hunting Techniques with EDR/XDR]()
-- [Incident Response with EDR/XDR]()
+- [What is Threat Hunting?](#what-is-threat-hunting)
+- [Purpose and Methods of Threat Hunting](#purpose-and-methods-of-threat-hunting)
+- [Threat Hunting Techniques with EDR/XDR](#threat-hunting-techniques-with-edrxdr)
+- [Incident Response with EDR/XDR](#incident-response-with-edrxdr)
 
 Evaluate Yourself with Quiz
 
