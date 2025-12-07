@@ -4,13 +4,13 @@ In today's digital landscape, web applications are prime targets for  cybercrimi
 
 **Table of Contents:**
 
-- [Introduction](https://app.letsdefend.io/training/lesson_detail/introduction-e55eab27)
-- [Common Web Attack Vectors](https://app.letsdefend.io/training/lesson_detail/common-web-attack-vectors)
-- [Threat Hunting Techniques for Web Attacks](https://app.letsdefend.io/training/lesson_detail/threat-hunting-techniques-for-web-attacks)
-- [SQLi-Based Unauthorized Data Access Hypothesis](https://app.letsdefend.io/training/lesson_detail/sqli-based-unauthorized-data-access-hypothesis)
-- [Practical Lab 1](https://app.letsdefend.io/training/lesson_detail/practical-lab-1-91092bc4)
-- [Practical Lab 2](https://app.letsdefend.io/training/lesson_detail/practical-lab-2-51b81dc8)
-- [Practical Lab 3](https://app.letsdefend.io/training/lesson_detail/practical-lab-3-937afcda)
+- [Introduction](#introduction)
+- [Common Web Attack Vectors](#common-web-attack-vectors)
+- [Threat Hunting Techniques for Web Attacks](#threat-hunting-techniques-for-web-attacks)
+- [SQLi-Based Unauthorized Data Access Hypothesis](#sqli-based-unauthorized-data-access-hypothesis)
+- [Practical Lab 1](#practical-lab-1)
+- [Practical Lab 2](#practical-lab-2)
+- [Practical Lab 3](#practical-lab-3)
 
 Evaluate Yourself with Quiz
 
