@@ -341,7 +341,7 @@ These analysis steps  provide strategies for detecting SQL injection attacks. We
 
 **Answer Format**: May 11, 2025 @ 12:41:41.165
 
-> **Answer:** Aug 20, 2024 @ 19:14:15.765
+> **Answer:** Aug 21, 2024 @ 01:14:15.765
 
 3 - In the previous stages of the threat hunting process, the IP address of  the system that performed the most SQL injection attacks according to  WAF logs was identified. Later, the event with the 'data.action' value  'passthrough' was identified among the events related to these web  requests. In this event, to which web URL was the request made?
 
@@ -367,13 +367,57 @@ These analysis steps  provide strategies for detecting SQL injection attacks. We
 
 > **Answer:** Remote Code Execution Attack
 
+## Practical Lab 3
 
+### Hypothesis
 
+**Note**: The questions in this section are prepared for Threat Hunting based on the following hypothesis:
 
+**Hypothesis:** Attackers could be trying to access sensitive data by accessing outdated backup  files (.bak, .zip, .tar, etc.) that were left on the web server.
 
+### Threat Hunting Lab Environment
 
+- Web Access Logs (Microsoft IIS)
+- SIEM (Wazuh)
 
+### Lab Notes
 
+- Analyze the logs between "Aug 19, 2024 00:00 - Aug 23, 2024 00:00" to answer the questions below.
+- Subsequent questions require correct answers from previous ones. Answer all questions strictly in the order they appear.
+
+### Questions
+
+**Note**: Analyze the logs between "Aug 19, 2024 00:00 - Aug 23, 2024 00:00" to answer the questions below.
+
+**Note**: Subsequent questions require correct answers from previous ones. Answer all questions strictly in the order they appear.
+
+1 - According to web logs, what is the IP address that returned the most "response status code 404"?
+
+> **Answer:** 91.121.109.67
+
+2 - According to the CTI platform([Threat Intel LetsDefend Platform](https://app.letsdefend.io/threat-intelligence-feed)), which APT group does the IP address that returned the most "response status code 404" in the web logs belong to?
+
+> **Answer:** APT-Q70
+
+3 - For the IP address that received the most "response status code  404" in the web logs, how many distinct URLs returned a response status  code 200 (success) within the same date range?
+
+> **Answer:** 6
+
+4 - According to web logs, the IP address that most frequently returned "response  status code 404" also returned "status code 200" (success) to various  URLs within the same time frame. What is the name of the file with one  of the “.bak”, “.zip”, “.tar” extensions among those URLs?
+
+> **Answer:** mysql.zip
+
+5 - According to web logs, what is the admin panel login URL for which the IP address that returned the most "response status code 404" returned a status code 200 (success)  within the same date range?
+
+> **Answer:** /admin/login.aspx
+
+6 - Excluding the IP address that received the most 404s, according to web logs, what is the IP address that accessed the zip file with response status code  200 (success) during the same date range as the IP address that returned the most "response status code 404"?﻿
+
+> **Answer:** 121.13.10.17
+
+7 - According to web logs, what is the most frequently used "user-agent" by the IP address that received the most 404s?
+
+> **Answer:** DirBuster-1.0-RC1
 
 
 
