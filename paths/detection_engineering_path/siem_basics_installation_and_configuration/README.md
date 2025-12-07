@@ -4,13 +4,13 @@ The "SIEM  Basics, Installation, and Configuration" course offers comprehensive 
 
 **Table of Contents:**
 
-- [Introduction to SIEM]()
-- [SIEM Components]()
-- [Common SIEM Products]()
-- [SIEM Installation Planning]()
-- [SIEM Installation Planning - 2]()
-- [SIEM Installation and Configuration]()
-- [To-Do List after SIEM Installation]()
+- [Introduction to SIEM](#introduction-to-siem)
+- [SIEM Components](#siem-components)
+- [Common SIEM Products](#common-siem-products)
+- [SIEM Installation Planning](#siem-installation-planning)
+- [SIEM Installation Planning - 2](#siem-installation-planning---2)
+- [SIEM Installation and Configuration](#siem-installation-and-configuration)
+- [To-Do List after SIEM Installation](#to-do-list-after-siem-installation)
 
 Evaluate Yourself with Quiz
 
