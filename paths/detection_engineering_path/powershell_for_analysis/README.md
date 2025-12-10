@@ -4,11 +4,11 @@ The  "PowerShell for Analysis" course is designed to equip cybersecurity  profes
 
 **Table of Contents:**
 
-- [Analysis of Log Files with PowerShell]()
-- [Windows Event Log Analysis with PowerShell]()
-- [What is Web Scraping?]()
-- [PowerShell and Web Scraping - 1]()
-- [PowerShell and Web Scraping - 2]()
+- [Analysis of Log Files with PowerShell](#analysis-of-log-files-with-powershell)
+- [Windows Event Log Analysis with PowerShell](#windows-event-log-analysis-with-powershell)
+- [What is Web Scraping?](#what-is-web-scraping)
+- [PowerShell and Web Scraping - 1](#powershell-and-web-scraping---1)
+- [PowerShell and Web Scraping - 2](#powershell-and-web-scraping---2)
 
 Evaluate Yourself with Quiz
 
@@ -442,7 +442,7 @@ Before continuing with  the topic, we should note that Web Scraping practices ma
 
 In this part of the  training, we have covered what web scraping is. In the next part of the  training, in the next chapter of our training, we will about the “PowerShell and Web Scraping-1” topic.
 
-### PowerShell and Web Scraping - 1
+## PowerShell and Web Scraping - 1
 
 PowerShell offers very  powerful and useful tools for Web Scraping, thanks to the .NET power  behind it. Web Scraping generally consists of the steps of making a  request, parsing the incoming response, extracting the data we need,  standardizing and storing the extracted data. PowerShell offers tools to make our job easier for each of these steps. Let's examine these:  
 
