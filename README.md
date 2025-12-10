@@ -92,7 +92,7 @@ My repo for Let's Defend Notes.
 1. [Advanced Bash Scripting](paths/detection_engineering_path/advanced_bash_scripting)
 1. [Bash Scripting for Blue Team](paths/detection_engineering_path/bash_scripting_for_blue_team)
 1. [Introduction to PowerShell](paths/detection_engineering_path/introduction_to_powershell)
-1. 
+1. [PowerShell for Analysis](paths/detection_engineering_path/powershell_for_analysis)
 1. 
 1. 
 1. 
