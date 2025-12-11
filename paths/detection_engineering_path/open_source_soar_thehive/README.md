@@ -4,10 +4,10 @@ The "Open Source SOAR: TheHive" course offers comprehensive training focused on 
 
 **Table of Contents:**
 
-- [What is TheHive?]()
-- [TheHive4py]()
-- [TheHive Installation]()
-- [Linux Installation for TheHive]()
+- [What is TheHive?](#what-is-thehive)
+- [TheHive4py](#thehive4py)
+- [TheHive Installation](#thehive-installation)
+- [Linux Installation for TheHive](#linux-installation-for-thehive)
 
 Evaluate Yourself with Quiz
 
