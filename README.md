@@ -109,7 +109,7 @@ My repo for Let's Defend Notes.
 1. [SIEM Alert Tuning](paths/detection_engineering_path/siem_alert_tuning)
 1. [SOAR Fundamentals](paths/detection_engineering_path/soar_fundamentals)
 1. [Open Source SOAR: TheHive](paths/detection_engineering_path/open_source_soar_thehive)
-1. 
+1. [Advanced SOAR](paths/detection_engineering_path/advanced_soar)
 
 
 
