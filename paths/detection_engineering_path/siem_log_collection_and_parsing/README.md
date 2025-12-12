@@ -4,14 +4,14 @@ The "SIEM  Log Collection and Parsing" course is dedicated to providing speciali
 
 **Table of Contents:**
 
-- [Introduction to Log Collection and Parsing]()
-- [Determining Log Sources]()
-- [Log Collection Methods]()
-- [IBM QRadar - Firewall Log Collection]()
-- [IBM QRadar - Windows Log Collection]()
-- [IBM QRadar - Linux Log Collection]()
-- [Log Analysis and Parsing]()
-- [Log Parsing with IBM QRadar]()
+- [Introduction to Log Collection and Parsing](#introduction-to-log-collection-and-parsing)
+- [Determining Log Sources](#determining-log-sources)
+- [Log Collection Methods](#log-collection-methods)
+- [IBM QRadar - Firewall Log Collection](#ibm-qradar---firewall-log-collection)
+- [IBM QRadar - Windows Log Collection](#ibm-qradar---windows-log-collection)
+- [IBM QRadar - Linux Log Collection](#ibm-qradar---linux-log-collection)
+- [Log Analysis and Parsing](#log-analysis-and-parsing)
+- [Log Parsing with IBM QRadar](#log-parsing-with-ibm-qradar)
 
 Evaluate Yourself with Quiz
 
