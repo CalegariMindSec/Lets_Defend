@@ -4,11 +4,11 @@ The  "Advanced SOAR" course is designed to further develop and expand  Security 
 
 Table of Contents
 
-- [SOAR & SIEM Integration]()
-- [Alerts, Case, and Management]()
-- [Creating a Playbook]()
-- [Alert Management]()
-- [Automation in SOAR]()
+- [SOAR & SIEM Integration](#soar--siem-integration)
+- [Alerts, Case, and Management](#alerts-case-and-management)
+- [Creating a Playbook](#creating-a-playbook)
+- [Alert Management](#alert-management)
+- [Automation in SOAR](#automation-in-soar)
 
 Evaluate Yourself with Quiz
 
