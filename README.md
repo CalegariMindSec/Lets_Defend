@@ -103,11 +103,11 @@ My repo for Let's Defend Notes.
 1. [XDR/EDR Threat Analysis & Custom Rule](paths/detection_engineering_path/xdr_edr_threat_analysis_custom_rule)
 1. [Threat Hunting and IR with XDR/EDR](paths/detection_engineering_path/threat_hunting_and_ir_with_xdr_edr)
 1. [SIEM Basics, Installation and Configuration](paths/detection_engineering_path/siem_basics_installation_and_configuration)
-1. 
+1. [SIEM Log Collection and Parsing](paths/detection_engineering_path/siem_log_collection_and_parsing)
 1. [SIEM Alert Generation](paths/detection_engineering_path/siem_alert_generation)
 1. [SIEM Log Search, Analysis and Reporting](paths/detection_engineering_path/siem_log_search_analysis_and_reporting)
 1. [SIEM Alert Tuning](paths/detection_engineering_path/siem_alert_tuning)
-1.  [SOAR Fundamentals](paths/detection_engineering_path/soar_fundamentals)
+1. [SOAR Fundamentals](paths/detection_engineering_path/soar_fundamentals)
 1. [Open Source SOAR: TheHive](paths/detection_engineering_path/open_source_soar_thehive)
 1. 
 
