@@ -4,12 +4,12 @@ The  "Advanced PowerShell for Blue Team" course is designed to improve  particip
 
 **Table of Contents:**
 
-- [Creating Security Tools with PowerShell]()
-- [Using TI Resources with PowerShell]()
-- [Checking for Updates]()
-- [Creating Multiplatform Scripts]()
-- [Forensics and Incident Response with PowerShell - 1]()
-- [Forensics and Incident Response with PowerShell - 2]()
+- [Creating Security Tools with PowerShell](#creating-security-tools-with-powershell)
+- [Using TI Resources with PowerShell](#using-ti-resources-with-powershell)
+- [Checking for Updates](#checking-for-updates)
+- [Creating Multiplatform Scripts](#creating-multiplatform-scripts)
+- [Forensics and Incident Response with PowerShell - 1](#forensics-and-incident-response-with-powershell---1)
+- [Forensics and Incident Response with PowerShell - 2](#forensics-and-incident-response-with-powershell---2)
 
 Evaluate Yourself with Quiz
 
