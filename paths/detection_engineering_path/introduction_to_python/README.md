@@ -4,15 +4,15 @@ The "Introduction to Python" course is designed to familiarize detection  engine
 
 Table of Contents:
 
-- [Introduction to Python]()
-- [Installing Python Environment]()
-- [Configuring Python Environment]()
-- [Control Structures in Python: Conditionals and Loops]()
-- [Functions, Modules, and Packages]()
-- [File Operations and Error Handling]()
-- [Data Structures]()
-- [Algorithms in Python]()
-- [Object Oriented Programming (OOP) in Python]()
+- [Introduction to Python](#introduction-to-python-1)
+- [Installing Python Environment](#installing-python-environment)
+- [Configuring Python Environment](#configuring-python-environment)
+- [Control Structures in Python: Conditionals and Loops](#control-structures-in-python-conditionals-and-loops)
+- [Functions, Modules, and Packages](#functions-modules-and-packages)
+- [File Operations and Error Handling](#file-operations-and-error-handling)
+- [Data Structures](#data-structures)
+- [Algorithms in Python](#algorithms-in-python)
+- [Object Oriented Programming (OOP) in Python](#object-oriented-programming-oop-in-python)
 
 Evaluate Yourself with Quiz
 
