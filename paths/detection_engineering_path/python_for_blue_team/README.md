@@ -4,13 +4,13 @@ The  "Python for Blue Team" course focuses on equipping cybersecurity  professio
 
 **Table of Contents:**
 
-- [Web Scraping with Python]()
-- [Web Scraping Lab]()
-- [Python and Socket Programming]()
-- [Port Scanner Application]()
-- [IDS Application with Python]()
-- [FIM Application with Python]()
-- [Forensic and Incident Response with Python]()
+- [Web Scraping with Python](#web-scraping-with-python)
+- [Web Scraping Lab](#web-scraping-lab)
+- [Python and Socket Programming](#python-and-socket-programming)
+- [Port Scanner Application](#port-scanner-application)
+- [IDS Application with Python](#ids-application-with-python)
+- [FIM Application with Python](#fim-application-with-python)
+- [Forensic and Incident Response with Python](#forensic-and-incident-response-with-python)
 
 Evaluate Yourself with Quiz
 
