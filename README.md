@@ -95,7 +95,7 @@ My repo for Let's Defend Notes.
 1. [PowerShell for Analysis](paths/detection_engineering_path/powershell_for_analysis)
 1. [Advanced PowerShell for Blue Team](paths/detection_engineering_path/advanced_powershell_for_blue_team)
 1. [Introduction to Python](paths/detection_engineering_path/introduction_to_python)
-1. 
+1. [Python for Blue Team](paths/detection_engineering_path/python_for_blue_team)
 1. [Attack Surface Management](paths/detection_engineering_path/attack_surface_management)
 1. [Cyber Threat Intelligence for Detection](paths/detection_engineering_path/cyber_threat_intelligence_for_detection)
 1. [Vulnerability Management](paths/detection_engineering_path/vulnerability_management)
