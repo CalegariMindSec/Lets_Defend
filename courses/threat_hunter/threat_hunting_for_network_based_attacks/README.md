@@ -4,14 +4,14 @@ In the "Threat Hunting for Network-Based Attacks" course, participants  will emb
 
 **Table of Contents:**
 
-- [Introduction]()
-- [Common Network-Based Attack Vectors]()
-- [Techniques for Network-Based Attacks]()
-- [Abnormal Traffic Hypothesis]()
-- [Port Scanning Activity Hypothesis]()
-- [Practical Lab 1]()
-- [Practical Lab 2]()
-- [Practical Lab 3]()
+- [Introduction](#introduction)
+- [Common Network-Based Attack Vectors](#common-network-based-attack-vectors)
+- [Techniques for Network-Based Attacks](#techniques-for-network-based-attacks)
+- [Abnormal Traffic Hypothesis](#abnormal-traffic-hypothesis)
+- [Port Scanning Activity Hypothesis](#port-scanning-activity-hypothesis)
+- [Practical Lab 1](#practical-lab-1)
+- [Practical Lab 2](#practical-lab-2)
+- [Practical Lab 3](#practical-lab-3)
 
 Evaluate Yourself with Quiz
 
