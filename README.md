@@ -133,4 +133,5 @@ My repo for Let's Defend Notes.
 - [Threat Hunting with WAF](courses/threat_hunter/threat_hunting_with_WAF)
 - [Threat Hunting with DNS](courses/threat_hunter/threat_hunting_with_DNS)
 - [Threat Hunting for Web Attacks](courses/threat_hunter/threat_hunting_for_web_attacks)
+- [Threat Hunting for Network-Based Attacks](courses/threat_hunter/threat_hunting_for_network_based_attacks)
 
